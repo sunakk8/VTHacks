@@ -1,0 +1,1001 @@
+Profession,Platform,Total Time Spent,Number of Sessions,Video Category,Video Length,Engagement,Importance Score,Time Spent On Video,Number of Videos Watched,Scroll Rate,Frequency,ProductivityLoss,Satisfaction,Watch Reason,Watch Time,Self Control,Addiction Level,CurrentActivity
+Engineer,Instagram,80,17,Pranks,24,7867,5,26,22,87,Night,3,7,Procrastination,9:00 PM,5,5,Commuting
+Artist,Instagram,228,14,Pranks,19,5944,6,25,31,46,Afternoon,5,5,Habit,5:00 PM,7,3,At school
+Engineer,Facebook,30,6,Vlogs,19,8674,3,9,7,88,Evening,6,4,Entertainment,2:00 PM,8,2,At home
+Waiting staff,YouTube,101,19,Vlogs,4,2477,2,6,41,93,Night,3,7,Habit,9:00 PM,5,5,Commuting
+Manager,TikTok,136,6,Gaming,19,3093,7,13,21,4,Morning,8,2,Boredom,8:00 AM,10,0,At home
+driver,Instagram,89,18,Jokes/Memes,9,8534,5,27,16,38,Night,3,7,Entertainment,9:00 PM,5,5,At home
+Students,TikTok,247,5,Vlogs,16,7207,9,22,20,63,Morning,8,2,Habit,8:00 AM,10,0,At school
+Engineer,Instagram,191,6,Entertainment,27,9654,3,28,43,29,Night,3,7,Entertainment,9:00 PM,5,5,At home
+Waiting staff,Instagram,34,2,Vlogs,4,9394,8,20,44,19,Night,3,7,Entertainment,9:00 PM,5,5,At home
+Students,YouTube,165,8,ASMR,6,9813,6,4,47,91,Evening,6,4,Boredom,2:00 PM,8,2,At home
+Manager,Instagram,14,15,Pranks,8,6227,4,2,19,29,Afternoon,5,5,Boredom,5:00 PM,7,3,At home
+Labor/Worker,TikTok,129,15,Life Hacks,27,3535,9,26,48,35,Evening,6,4,Habit,2:00 PM,8,2,At home
+Waiting staff,Instagram,286,11,Gaming,29,7004,5,4,32,70,Afternoon,5,5,Habit,5:00 PM,7,3,At school
+Waiting staff,Facebook,27,1,Vlogs,24,2913,6,8,15,23,Evening,6,4,Entertainment,2:00 PM,8,2,Commuting
+Cashier,YouTube,207,18,Gaming,16,9381,9,13,5,46,Evening,6,4,Boredom,2:00 PM,8,2,At school
+Students,YouTube,66,12,Entertainment,5,2340,7,10,11,44,Evening,6,4,Entertainment,2:00 PM,8,2,At school
+Waiting staff,Facebook,102,12,ASMR,21,9795,5,18,15,48,Afternoon,5,5,Habit,5:00 PM,7,3,At home
+Students,Facebook,28,11,ASMR,22,5289,2,9,29,52,Evening,6,4,Habit,2:00 PM,8,2,At home
+Labor/Worker,Facebook,202,8,Pranks,10,597,4,1,45,8,Evening,6,4,Entertainment,2:00 PM,8,2,At work
+Labor/Worker,Instagram,246,7,Vlogs,23,8836,2,13,4,55,Morning,8,2,Habit,8:00 AM,10,0,At work
+Waiting staff,YouTube,286,2,Vlogs,13,7145,3,18,49,66,Afternoon,5,5,Habit,5:00 PM,7,3,Commuting
+driver,Facebook,236,11,Entertainment,29,2902,3,15,36,77,Afternoon,5,5,Boredom,5:00 PM,7,3,Commuting
+Students,Instagram,242,10,Entertainment,26,6645,4,2,48,40,Night,3,7,Boredom,9:00 PM,5,5,At work
+Waiting staff,Facebook,49,3,Pranks,14,8955,6,11,23,85,Evening,6,4,Habit,2:00 PM,8,2,At home
+Waiting staff,TikTok,162,10,Jokes/Memes,7,7694,3,29,15,31,Evening,6,4,Boredom,2:00 PM,8,2,At home
+Labor/Worker,TikTok,136,18,Jokes/Memes,29,4830,1,14,46,48,Afternoon,5,5,Entertainment,5:00 PM,7,3,At school
+Students,YouTube,246,14,Gaming,20,7546,1,22,44,61,Evening,6,4,Habit,2:00 PM,8,2,Commuting
+Manager,Instagram,64,18,Life Hacks,6,7368,9,15,3,52,Night,3,7,Habit,9:00 PM,5,5,At home
+Labor/Worker,TikTok,181,8,Entertainment,7,9834,9,14,32,38,Evening,6,4,Boredom,2:00 PM,8,2,At work
+driver,TikTok,118,10,Pranks,5,2160,5,16,10,91,Evening,6,4,Entertainment,2:00 PM,8,2,At home
+driver,Instagram,193,13,Pranks,21,5878,9,23,40,36,Morning,8,2,Habit,8:00 AM,10,0,At school
+Students,Facebook,207,8,Jokes/Memes,18,7663,7,29,38,87,Afternoon,5,5,Habit,5:00 PM,7,3,At home
+Labor/Worker,Instagram,96,4,Trends,23,3749,9,15,22,55,Night,3,7,Boredom,9:00 PM,5,5,Commuting
+Waiting staff,Facebook,210,4,Trends,12,2922,7,19,14,85,Evening,6,4,Entertainment,2:00 PM,8,2,At work
+Students,TikTok,284,5,Entertainment,6,6486,9,27,17,13,Evening,6,4,Entertainment,2:00 PM,8,2,At school
+Students,TikTok,220,1,Jokes/Memes,27,8112,2,9,21,37,Night,3,7,Procrastination,9:00 PM,5,5,At home
+Labor/Worker,TikTok,127,17,Entertainment,1,8771,8,5,48,47,Night,3,7,Entertainment,9:00 PM,5,5,At home
+Students,YouTube,200,2,Jokes/Memes,4,3804,7,5,15,90,Afternoon,5,5,Boredom,5:00 PM,7,3,At school
+Cashier,YouTube,51,8,Jokes/Memes,19,4878,6,11,15,71,Night,3,7,Habit,9:00 PM,5,5,At home
+Students,YouTube,51,7,ASMR,12,2368,5,28,1,22,Afternoon,5,5,Boredom,5:00 PM,7,3,Commuting
+Waiting staff,Instagram,285,15,Comedy,15,8093,4,20,24,39,Evening,6,4,Boredom,2:00 PM,8,2,At work
+Students,TikTok,26,5,ASMR,3,3932,7,25,12,87,Evening,6,4,Habit,2:00 PM,8,2,At school
+Cashier,TikTok,292,2,Life Hacks,23,5608,3,24,10,58,Morning,8,2,Entertainment,8:00 AM,10,0,At home
+Waiting staff,Instagram,267,7,Gaming,27,6635,8,28,46,30,Night,3,7,Entertainment,9:00 PM,5,5,At school
+Labor/Worker,YouTube,72,8,Gaming,28,6395,2,4,42,18,Evening,6,4,Boredom,2:00 PM,8,2,Commuting
+Waiting staff,Instagram,71,7,Comedy,26,6101,1,20,42,18,Evening,6,4,Procrastination,2:00 PM,8,2,At home
+Labor/Worker,YouTube,109,7,Trends,20,9292,2,18,31,74,Afternoon,5,5,Procrastination,5:00 PM,7,3,At school
+Students,TikTok,28,14,Pranks,28,9862,9,25,11,39,Night,3,7,Entertainment,9:00 PM,5,5,At work
+Students,Facebook,26,18,Trends,8,5531,5,3,16,94,Evening,6,4,Boredom,2:00 PM,8,2,At school
+Students,YouTube,255,6,Life Hacks,11,4970,8,4,9,26,Afternoon,5,5,Procrastination,5:00 PM,7,3,At home
+Waiting staff,TikTok,260,4,Entertainment,16,6344,3,14,47,71,Afternoon,5,5,Entertainment,5:00 PM,7,3,At home
+driver,TikTok,90,10,Entertainment,9,8408,7,7,14,7,Evening,6,4,Entertainment,2:00 PM,8,2,At home
+Students,Facebook,48,18,Pranks,3,375,2,26,19,69,Evening,6,4,Boredom,2:00 PM,8,2,Commuting
+driver,TikTok,45,12,Trends,5,7887,8,8,31,65,Afternoon,5,5,Procrastination,5:00 PM,7,3,At work
+Cashier,TikTok,206,16,Life Hacks,20,1609,7,24,9,46,Evening,6,4,Habit,2:00 PM,8,2,At home
+Manager,YouTube,167,7,Life Hacks,14,2939,5,16,36,18,Night,3,7,Boredom,9:00 PM,5,5,At home
+Labor/Worker,YouTube,213,6,Jokes/Memes,28,4062,4,20,39,13,Afternoon,5,5,Entertainment,5:00 PM,7,3,At school
+Waiting staff,Facebook,205,5,Entertainment,26,1613,1,15,26,25,Afternoon,5,5,Habit,5:00 PM,7,3,At home
+Waiting staff,Facebook,225,3,Vlogs,15,6578,5,7,8,8,Night,3,7,Entertainment,9:00 PM,5,5,At school
+driver,TikTok,294,12,Life Hacks,6,7851,9,26,24,74,Night,3,7,Habit,9:00 PM,5,5,At home
+driver,YouTube,205,15,Entertainment,27,3679,4,17,8,32,Afternoon,5,5,Entertainment,5:00 PM,7,3,At home
+Waiting staff,Facebook,161,10,Jokes/Memes,26,7540,9,22,19,17,Afternoon,5,5,Procrastination,5:00 PM,7,3,Commuting
+Waiting staff,Facebook,23,19,Entertainment,4,9488,2,22,47,79,Evening,6,4,Habit,2:00 PM,8,2,At school
+Students,Instagram,155,16,ASMR,8,7074,4,22,48,79,Evening,6,4,Boredom,2:00 PM,8,2,Commuting
+Teacher,Facebook,66,11,Life Hacks,19,3996,9,12,30,48,Afternoon,5,5,Entertainment,5:00 PM,7,3,At school
+Teacher,TikTok,220,8,Life Hacks,27,4786,4,18,22,63,Afternoon,5,5,Habit,5:00 PM,7,3,At home
+Cashier,YouTube,277,3,Gaming,5,5695,5,24,9,40,Evening,6,4,Boredom,2:00 PM,8,2,Commuting
+Students,Facebook,219,7,Trends,13,9347,8,14,44,84,Evening,6,4,Boredom,2:00 PM,8,2,At home
+Artist,Instagram,26,7,Life Hacks,16,6998,1,15,48,15,Night,3,7,Habit,9:00 PM,5,5,At home
+Students,YouTube,295,14,Gaming,1,2366,1,15,4,99,Evening,6,4,Habit,2:00 PM,8,2,At home
+Students,Facebook,212,2,Pranks,13,6764,9,5,37,6,Afternoon,5,5,Entertainment,5:00 PM,7,3,At school
+Labor/Worker,Instagram,108,10,Life Hacks,22,8976,9,16,8,94,Night,3,7,Boredom,9:00 PM,5,5,At home
+Engineer,Facebook,288,19,Comedy,11,9273,4,5,1,63,Evening,6,4,Entertainment,2:00 PM,8,2,At school
+Waiting staff,YouTube,218,9,Jokes/Memes,21,1614,2,2,28,8,Night,3,7,Boredom,9:00 PM,5,5,At home
+driver,YouTube,138,16,Jokes/Memes,8,4555,9,20,6,95,Night,3,7,Procrastination,9:00 PM,5,5,At school
+Labor/Worker,YouTube,297,19,Jokes/Memes,25,2416,4,28,47,32,Night,3,7,Habit,9:00 PM,5,5,At home
+driver,TikTok,261,18,Pranks,8,7288,6,25,36,45,Night,3,7,Procrastination,9:00 PM,5,5,Commuting
+Labor/Worker,Facebook,274,9,Life Hacks,24,6862,1,9,11,52,Afternoon,5,5,Procrastination,5:00 PM,7,3,Commuting
+Labor/Worker,TikTok,280,16,Vlogs,28,3653,9,22,5,79,Evening,6,4,Boredom,2:00 PM,8,2,At school
+driver,YouTube,197,13,Jokes/Memes,14,6639,5,27,24,82,Night,3,7,Habit,9:00 PM,5,5,At school
+driver,Instagram,223,10,Gaming,13,496,3,9,47,13,Evening,6,4,Habit,2:00 PM,8,2,At home
+Labor/Worker,Facebook,292,14,Jokes/Memes,3,504,4,4,18,24,Afternoon,5,5,Entertainment,5:00 PM,7,3,At school
+Students,TikTok,220,12,Pranks,4,7699,1,15,20,40,Evening,6,4,Entertainment,2:00 PM,8,2,Commuting
+Waiting staff,Facebook,85,19,Entertainment,27,5733,9,11,28,14,Afternoon,5,5,Boredom,5:00 PM,7,3,At work
+Labor/Worker,Instagram,157,7,Jokes/Memes,20,8055,8,1,13,92,Night,3,7,Boredom,9:00 PM,5,5,At home
+Waiting staff,TikTok,222,15,Life Hacks,15,3216,4,18,5,75,Night,3,7,Entertainment,9:00 PM,5,5,At home
+Engineer,YouTube,118,16,Trends,15,5688,2,29,30,70,Night,3,7,Habit,9:00 PM,5,5,At home
+Manager,TikTok,138,8,Life Hacks,27,9600,9,1,1,62,Night,3,7,Entertainment,9:00 PM,5,5,At home
+Students,Facebook,19,10,Jokes/Memes,21,4364,4,8,22,89,Night,3,7,Boredom,9:00 PM,5,5,At work
+Waiting staff,Facebook,56,4,Jokes/Memes,13,6042,9,25,18,61,Night,3,7,Entertainment,9:00 PM,5,5,At school
+Waiting staff,Facebook,105,19,Jokes/Memes,9,1477,3,16,46,1,Afternoon,5,5,Boredom,5:00 PM,7,3,At school
+Students,Facebook,112,19,Jokes/Memes,28,4960,7,26,5,89,Night,3,7,Boredom,9:00 PM,5,5,Commuting
+Students,YouTube,155,15,Trends,25,2397,7,28,31,66,Night,3,7,Habit,9:00 PM,5,5,At school
+driver,TikTok,36,14,Vlogs,10,8301,4,22,6,32,Night,3,7,Boredom,9:00 PM,5,5,At work
+Manager,YouTube,229,1,Life Hacks,29,8841,2,18,27,13,Evening,6,4,Habit,2:00 PM,8,2,At work
+Students,YouTube,27,16,Jokes/Memes,12,6194,9,22,25,33,Morning,8,2,Habit,8:00 AM,10,0,At home
+Students,YouTube,176,10,ASMR,14,7570,4,9,29,32,Evening,6,4,Boredom,2:00 PM,8,2,At home
+Waiting staff,Facebook,91,19,Jokes/Memes,1,7730,8,12,28,56,Afternoon,5,5,Entertainment,5:00 PM,7,3,At work
+Engineer,Facebook,81,3,ASMR,14,1499,2,19,16,24,Night,3,7,Entertainment,9:00 PM,5,5,At work
+Waiting staff,Facebook,263,5,Pranks,14,7235,8,25,12,91,Evening,6,4,Boredom,2:00 PM,8,2,At home
+Engineer,TikTok,171,9,Vlogs,8,595,5,18,20,4,Afternoon,5,5,Boredom,5:00 PM,7,3,At work
+Waiting staff,Instagram,47,18,Jokes/Memes,16,978,7,27,18,88,Night,3,7,Boredom,9:00 PM,5,5,Commuting
+Engineer,Facebook,210,11,Jokes/Memes,14,730,7,5,34,23,Night,3,7,Entertainment,9:00 PM,5,5,At school
+Engineer,TikTok,209,16,Gaming,1,56,9,27,23,29,Night,3,7,Habit,9:00 PM,5,5,At work
+driver,Facebook,264,2,Gaming,16,2243,3,2,45,98,Night,3,7,Habit,9:00 PM,5,5,At home
+Labor/Worker,Facebook,188,12,Comedy,18,5879,4,7,27,21,Evening,6,4,Entertainment,2:00 PM,8,2,At home
+Labor/Worker,YouTube,44,6,Jokes/Memes,7,1701,4,27,49,30,Night,3,7,Habit,9:00 PM,5,5,At home
+Waiting staff,YouTube,91,11,Pranks,15,7229,5,10,17,90,Night,3,7,Entertainment,9:00 PM,5,5,At work
+Artist,YouTube,229,8,Gaming,24,1286,6,15,48,20,Evening,6,4,Entertainment,2:00 PM,8,2,At home
+Labor/Worker,TikTok,167,12,Jokes/Memes,17,8303,3,25,21,16,Night,3,7,Procrastination,9:00 PM,5,5,At work
+Waiting staff,Instagram,13,2,Jokes/Memes,19,9393,4,7,40,67,Night,3,7,Entertainment,9:00 PM,5,5,At home
+Labor/Worker,Instagram,176,9,Pranks,23,947,3,28,31,49,Evening,6,4,Habit,2:00 PM,8,2,At home
+Labor/Worker,TikTok,213,15,Jokes/Memes,13,4121,2,5,3,58,Evening,6,4,Procrastination,2:00 PM,8,2,At work
+Teacher,Facebook,203,2,Jokes/Memes,9,6553,9,15,17,44,Evening,6,4,Boredom,2:00 PM,8,2,At home
+Students,TikTok,244,1,Entertainment,24,757,1,20,26,25,Night,3,7,Habit,9:00 PM,5,5,At school
+Students,Facebook,215,10,Life Hacks,24,5651,2,28,23,23,Night,3,7,Boredom,9:00 PM,5,5,At school
+Cashier,TikTok,159,2,Entertainment,15,7273,8,20,6,59,Evening,6,4,Habit,2:00 PM,8,2,At work
+driver,TikTok,168,12,Life Hacks,25,3535,7,15,28,1,Evening,6,4,Habit,2:00 PM,8,2,At work
+Labor/Worker,TikTok,288,8,Life Hacks,26,2293,1,10,8,97,Evening,6,4,Habit,2:00 PM,8,2,At work
+Engineer,Instagram,175,5,Gaming,3,1104,5,24,45,15,Night,3,7,Habit,9:00 PM,5,5,At home
+Labor/Worker,YouTube,77,1,Life Hacks,24,8853,6,26,8,81,Night,3,7,Habit,9:00 PM,5,5,At work
+Labor/Worker,TikTok,97,15,Gaming,1,908,5,29,19,98,Night,3,7,Habit,9:00 PM,5,5,At home
+Artist,Instagram,226,6,Trends,16,6539,4,26,38,81,Evening,6,4,Habit,2:00 PM,8,2,Commuting
+Waiting staff,YouTube,10,12,Comedy,8,4617,1,14,29,52,Evening,6,4,Boredom,2:00 PM,8,2,At home
+driver,YouTube,144,8,ASMR,29,7069,7,26,23,58,Night,3,7,Boredom,9:00 PM,5,5,At home
+driver,TikTok,194,13,Gaming,23,2311,9,26,47,41,Evening,6,4,Entertainment,2:00 PM,8,2,At school
+Cashier,Facebook,149,19,Pranks,13,789,6,10,32,44,Night,3,7,Habit,9:00 PM,5,5,At school
+Labor/Worker,Facebook,115,1,Pranks,8,171,3,17,10,4,Night,3,7,Boredom,9:00 PM,5,5,At school
+Waiting staff,Facebook,142,11,Vlogs,17,7989,4,21,27,77,Afternoon,5,5,Entertainment,5:00 PM,7,3,At school
+Students,TikTok,117,1,Jokes/Memes,22,1885,5,14,49,68,Evening,6,4,Habit,2:00 PM,8,2,At home
+driver,Facebook,187,8,Vlogs,23,8667,1,2,1,7,Evening,6,4,Habit,2:00 PM,8,2,At home
+Artist,Instagram,155,5,Life Hacks,14,1049,5,16,39,46,Night,3,7,Procrastination,9:00 PM,5,5,At home
+Waiting staff,Instagram,83,17,ASMR,27,4129,1,13,29,9,Night,3,7,Entertainment,9:00 PM,5,5,Commuting
+Students,Instagram,117,8,Vlogs,21,1161,9,27,45,87,Afternoon,5,5,Entertainment,5:00 PM,7,3,At school
+driver,Instagram,131,10,Entertainment,21,815,7,9,3,33,Afternoon,5,5,Procrastination,5:00 PM,7,3,At home
+Manager,YouTube,26,2,Life Hacks,7,3766,3,7,47,33,Evening,6,4,Entertainment,2:00 PM,8,2,At home
+Cashier,Instagram,205,9,Trends,27,8945,9,16,37,84,Night,3,7,Boredom,9:00 PM,5,5,At home
+Labor/Worker,Facebook,261,3,Entertainment,15,4661,2,10,31,4,Night,3,7,Entertainment,9:00 PM,5,5,At work
+Students,TikTok,128,18,Life Hacks,16,8653,7,24,11,65,Morning,8,2,Boredom,8:00 AM,10,0,Commuting
+Students,Facebook,171,7,Life Hacks,19,3239,9,22,22,34,Afternoon,5,5,Procrastination,5:00 PM,7,3,At school
+Students,Instagram,207,15,Jokes/Memes,6,8272,6,9,18,91,Afternoon,5,5,Habit,5:00 PM,7,3,At work
+Engineer,YouTube,54,18,Gaming,23,2804,5,22,35,85,Evening,6,4,Procrastination,2:00 PM,8,2,At home
+Engineer,Instagram,188,3,Life Hacks,1,8031,7,23,6,88,Evening,6,4,Habit,2:00 PM,8,2,At school
+Engineer,TikTok,53,14,Pranks,12,869,6,7,3,79,Night,3,7,Entertainment,9:00 PM,5,5,Commuting
+Waiting staff,Facebook,280,2,Life Hacks,18,5526,5,16,5,99,Morning,8,2,Entertainment,8:00 AM,10,0,At work
+Engineer,TikTok,87,14,Life Hacks,16,7741,2,9,9,64,Evening,6,4,Habit,2:00 PM,8,2,Commuting
+Waiting staff,TikTok,187,11,Life Hacks,12,4694,8,27,28,25,Night,3,7,Procrastination,9:00 PM,5,5,At work
+Labor/Worker,TikTok,12,16,Jokes/Memes,20,8998,7,24,19,55,Morning,8,2,Procrastination,8:00 AM,10,0,At home
+Engineer,Facebook,223,8,Vlogs,13,1934,6,29,28,9,Evening,6,4,Boredom,2:00 PM,8,2,At home
+Cashier,Instagram,83,7,Trends,8,5172,5,17,27,17,Evening,6,4,Habit,2:00 PM,8,2,At school
+Artist,TikTok,60,11,Entertainment,27,703,5,20,13,21,Afternoon,5,5,Habit,5:00 PM,7,3,At home
+driver,Facebook,76,3,Gaming,29,2523,9,7,38,60,Night,3,7,Habit,9:00 PM,5,5,At home
+Students,YouTube,102,17,Life Hacks,26,2639,1,11,43,13,Evening,6,4,Entertainment,2:00 PM,8,2,At home
+Waiting staff,Facebook,185,14,Trends,22,6159,9,8,21,3,Afternoon,5,5,Habit,5:00 PM,7,3,At home
+Students,YouTube,154,6,Entertainment,1,3909,6,7,27,68,Night,3,7,Boredom,9:00 PM,5,5,At school
+Students,Facebook,16,8,Vlogs,26,1164,4,28,46,4,Afternoon,5,5,Boredom,5:00 PM,7,3,At home
+Students,Instagram,278,5,Pranks,21,619,7,19,6,92,Night,3,7,Boredom,9:00 PM,5,5,At work
+driver,TikTok,13,8,Pranks,7,7982,9,20,38,7,Night,3,7,Boredom,9:00 PM,5,5,At school
+Manager,Instagram,147,2,Jokes/Memes,15,3066,5,12,49,26,Evening,6,4,Procrastination,2:00 PM,8,2,At school
+Students,Facebook,240,15,Jokes/Memes,29,4872,5,7,11,75,Evening,6,4,Entertainment,2:00 PM,8,2,Commuting
+Waiting staff,TikTok,97,12,Life Hacks,22,8638,8,8,47,24,Afternoon,5,5,Entertainment,5:00 PM,7,3,At work
+Labor/Worker,YouTube,26,17,Trends,13,2337,7,7,41,10,Afternoon,5,5,Habit,5:00 PM,7,3,At home
+Students,Facebook,61,1,Gaming,13,8400,8,6,17,13,Night,3,7,Boredom,9:00 PM,5,5,At work
+Manager,TikTok,143,15,Entertainment,28,5594,2,25,39,44,Evening,6,4,Entertainment,2:00 PM,8,2,At home
+Cashier,YouTube,220,14,Jokes/Memes,9,2460,9,9,7,39,Evening,6,4,Boredom,2:00 PM,8,2,Commuting
+Engineer,YouTube,228,16,Entertainment,24,6820,3,27,30,19,Afternoon,5,5,Entertainment,5:00 PM,7,3,At work
+Labor/Worker,Instagram,214,9,Gaming,15,5546,6,13,21,51,Evening,6,4,Habit,2:00 PM,8,2,At school
+Students,Facebook,220,1,Gaming,4,3442,6,7,1,19,Evening,6,4,Entertainment,2:00 PM,8,2,At school
+Waiting staff,YouTube,286,17,Trends,13,2711,2,8,25,76,Afternoon,5,5,Habit,5:00 PM,7,3,At work
+Labor/Worker,TikTok,33,13,Trends,27,1291,7,22,32,52,Afternoon,5,5,Entertainment,5:00 PM,7,3,At home
+driver,YouTube,13,5,Life Hacks,12,5374,9,17,8,86,Afternoon,5,5,Habit,5:00 PM,7,3,At school
+Students,YouTube,161,10,Jokes/Memes,5,9592,1,17,5,47,Night,3,7,Entertainment,9:00 PM,5,5,At work
+Cashier,Instagram,268,6,Entertainment,7,2655,8,16,30,30,Night,3,7,Habit,9:00 PM,5,5,At work
+Cashier,Instagram,177,19,Gaming,8,6513,2,22,8,46,Evening,6,4,Entertainment,2:00 PM,8,2,At home
+Students,TikTok,185,13,ASMR,5,7394,1,2,49,76,Night,3,7,Entertainment,9:00 PM,5,5,Commuting
+Teacher,Instagram,65,1,Life Hacks,9,704,8,8,19,93,Evening,6,4,Habit,2:00 PM,8,2,At work
+Waiting staff,YouTube,117,15,ASMR,14,825,2,17,44,21,Morning,8,2,Boredom,8:00 AM,10,0,At home
+Labor/Worker,YouTube,150,14,Trends,26,9196,6,13,30,75,Evening,6,4,Boredom,2:00 PM,8,2,At school
+driver,Instagram,164,8,Trends,12,376,6,18,15,48,Afternoon,5,5,Habit,5:00 PM,7,3,At work
+Waiting staff,YouTube,271,10,Vlogs,4,972,5,24,36,62,Afternoon,5,5,Entertainment,5:00 PM,7,3,At home
+Engineer,YouTube,282,9,Life Hacks,20,4213,8,28,44,58,Evening,6,4,Procrastination,2:00 PM,8,2,At school
+driver,TikTok,241,17,Life Hacks,29,443,3,22,27,18,Evening,6,4,Procrastination,2:00 PM,8,2,At school
+Labor/Worker,Instagram,250,9,Jokes/Memes,8,7519,4,28,13,59,Evening,6,4,Habit,2:00 PM,8,2,At school
+Cashier,YouTube,267,3,ASMR,17,754,7,10,14,91,Evening,6,4,Habit,2:00 PM,8,2,At school
+Labor/Worker,Instagram,258,11,Pranks,8,4735,7,2,37,48,Night,3,7,Entertainment,9:00 PM,5,5,At home
+Labor/Worker,TikTok,86,12,Jokes/Memes,21,5396,8,2,48,63,Evening,6,4,Entertainment,2:00 PM,8,2,At work
+Artist,Instagram,189,10,Entertainment,29,3465,2,27,30,12,Afternoon,5,5,Procrastination,5:00 PM,7,3,At home
+Waiting staff,YouTube,75,17,Life Hacks,27,2711,2,14,39,87,Morning,8,2,Procrastination,8:00 AM,10,0,At work
+driver,Instagram,180,17,Entertainment,1,2407,4,16,47,34,Morning,8,2,Entertainment,8:00 AM,10,0,Commuting
+Teacher,YouTube,31,11,Pranks,20,8814,9,7,13,61,Morning,8,2,Habit,8:00 AM,10,0,At home
+Engineer,YouTube,116,4,Entertainment,2,5588,9,21,16,87,Evening,6,4,Boredom,2:00 PM,8,2,At work
+driver,YouTube,236,7,Life Hacks,4,6104,4,21,44,53,Evening,6,4,Entertainment,2:00 PM,8,2,At home
+Waiting staff,TikTok,225,14,Jokes/Memes,24,5747,9,24,7,25,Evening,6,4,Habit,2:00 PM,8,2,At home
+Labor/Worker,Instagram,78,7,Vlogs,21,1723,3,12,48,62,Afternoon,5,5,Entertainment,5:00 PM,7,3,At home
+Teacher,TikTok,93,8,Trends,1,7224,5,28,27,4,Evening,6,4,Habit,2:00 PM,8,2,At school
+Waiting staff,Instagram,112,1,Life Hacks,7,1919,9,23,45,94,Evening,6,4,Habit,2:00 PM,8,2,At home
+Waiting staff,TikTok,48,4,Jokes/Memes,1,918,6,28,35,94,Evening,6,4,Habit,2:00 PM,8,2,At home
+Manager,Facebook,22,12,Gaming,9,4215,3,14,15,13,Night,3,7,Habit,9:00 PM,5,5,At work
+Artist,YouTube,190,3,Pranks,3,581,9,25,28,42,Morning,8,2,Boredom,8:00 AM,10,0,At home
+Students,YouTube,277,13,Entertainment,12,3881,6,4,35,49,Evening,6,4,Boredom,2:00 PM,8,2,Commuting
+Labor/Worker,TikTok,22,6,Pranks,19,9878,4,26,7,78,Evening,6,4,Entertainment,2:00 PM,8,2,At school
+driver,Facebook,129,11,Jokes/Memes,15,3909,4,4,46,56,Morning,8,2,Habit,8:00 AM,10,0,At home
+Labor/Worker,YouTube,66,4,Trends,22,1999,8,18,46,47,Evening,6,4,Habit,2:00 PM,8,2,At home
+Artist,Instagram,49,16,Gaming,16,400,7,3,20,8,Night,3,7,Habit,9:00 PM,5,5,At school
+Students,TikTok,137,7,Trends,10,3648,1,1,32,55,Night,3,7,Boredom,9:00 PM,5,5,Commuting
+Engineer,YouTube,182,11,Gaming,22,5445,6,17,38,88,Evening,6,4,Boredom,2:00 PM,8,2,At school
+Waiting staff,YouTube,44,1,Life Hacks,29,2628,8,7,40,18,Night,3,7,Habit,8:30 PM,5,5,At school
+Waiting staff,TikTok,268,7,Comedy,27,1656,3,16,32,35,Evening,6,4,Habit,3:45 PM,8,2,Commuting
+driver,TikTok,14,12,Entertainment,27,620,9,5,26,89,Night,3,7,Habit,8:30 PM,5,5,At home
+driver,Instagram,227,7,Entertainment,6,246,2,19,39,81,Evening,6,4,Procrastination,3:45 PM,8,2,At school
+Students,Instagram,20,7,Gaming,29,5212,6,7,20,32,Evening,6,4,Habit,3:45 PM,8,2,At home
+Manager,YouTube,126,10,Vlogs,17,3339,1,14,18,24,Afternoon,5,5,Habit,6:05 PM,7,3,At work
+Waiting staff,YouTube,193,16,Trends,21,6758,2,2,15,7,Evening,6,4,Boredom,3:45 PM,8,2,At school
+Labor/Worker,TikTok,125,8,Life Hacks,28,7086,5,3,22,13,Evening,6,4,Habit,3:45 PM,8,2,At work
+Students,YouTube,171,9,Jokes/Memes,22,3010,1,17,22,91,Evening,6,4,Boredom,3:45 PM,8,2,At school
+Artist,YouTube,76,9,Entertainment,24,4719,8,16,21,69,Night,3,7,Habit,8:30 PM,5,5,At home
+Engineer,TikTok,209,2,Gaming,29,2368,1,8,2,90,Evening,6,4,Entertainment,3:45 PM,8,2,At home
+Waiting staff,YouTube,40,13,Life Hacks,17,1839,9,18,40,42,Morning,8,2,Procrastination,9:15 AM,10,0,At home
+Manager,YouTube,84,13,Comedy,21,2903,3,15,43,31,Night,3,7,Procrastination,8:30 PM,5,5,Commuting
+Manager,Facebook,246,4,Pranks,19,6205,2,7,18,74,Night,3,7,Procrastination,8:30 PM,5,5,At home
+Students,Instagram,75,12,Trends,18,4395,1,27,23,26,Night,3,7,Boredom,8:30 PM,5,5,At school
+Students,TikTok,79,17,Life Hacks,11,5767,9,9,13,86,Evening,6,4,Entertainment,3:45 PM,8,2,At work
+Waiting staff,Facebook,29,2,Vlogs,24,3691,4,6,41,76,Afternoon,5,5,Entertainment,6:05 PM,7,3,At school
+Students,Instagram,235,13,ASMR,7,7470,1,18,9,32,Evening,6,4,Habit,3:45 PM,8,2,At school
+Labor/Worker,Instagram,208,18,Life Hacks,10,3841,1,18,49,91,Evening,6,4,Boredom,3:45 PM,8,2,At home
+Manager,Instagram,48,15,Pranks,7,4348,7,25,7,97,Evening,6,4,Boredom,3:45 PM,8,2,At work
+Engineer,Facebook,154,8,Entertainment,5,6621,2,26,41,52,Night,3,7,Habit,8:30 PM,5,5,At work
+Engineer,Facebook,54,15,Trends,12,1392,7,24,1,20,Night,3,7,Habit,8:30 PM,5,5,At school
+Manager,Instagram,100,1,Gaming,16,6060,7,14,2,40,Evening,6,4,Habit,3:45 PM,8,2,At home
+Labor/Worker,YouTube,247,10,Life Hacks,29,4255,9,14,4,59,Night,3,7,Entertainment,8:30 PM,5,5,At home
+Students,YouTube,79,12,Pranks,25,4300,7,14,14,77,Night,3,7,Boredom,8:30 PM,5,5,At school
+Cashier,Facebook,175,5,Life Hacks,21,3338,1,25,32,14,Night,3,7,Entertainment,8:30 PM,5,5,At school
+Students,Facebook,139,9,Life Hacks,18,5487,8,4,36,44,Night,3,7,Boredom,8:30 PM,5,5,At home
+Waiting staff,Facebook,223,8,ASMR,3,3514,8,4,2,86,Afternoon,5,5,Entertainment,6:05 PM,7,3,Commuting
+driver,Instagram,98,16,Trends,20,759,4,15,40,82,Evening,6,4,Boredom,3:45 PM,8,2,Commuting
+Students,YouTube,261,14,Life Hacks,15,9915,8,15,14,48,Evening,6,4,Procrastination,3:45 PM,8,2,At school
+Teacher,Facebook,81,13,Jokes/Memes,5,8621,4,18,20,93,Morning,8,2,Habit,9:15 AM,10,0,At home
+Artist,Facebook,174,13,Trends,13,6793,8,14,25,43,Night,3,7,Habit,8:30 PM,5,5,At work
+Students,TikTok,58,5,Jokes/Memes,19,2459,5,26,42,16,Evening,6,4,Habit,3:45 PM,8,2,At school
+Waiting staff,Instagram,61,16,Jokes/Memes,12,5273,4,1,49,35,Afternoon,5,5,Procrastination,6:05 PM,7,3,Commuting
+Waiting staff,TikTok,298,11,Life Hacks,23,1718,6,10,8,53,Afternoon,5,5,Entertainment,6:05 PM,7,3,At work
+Cashier,YouTube,287,5,Life Hacks,21,9457,2,29,28,34,Evening,6,4,Entertainment,3:45 PM,8,2,At school
+driver,TikTok,123,13,Life Hacks,5,5423,2,20,46,3,Night,3,7,Procrastination,8:30 PM,5,5,At school
+driver,TikTok,248,11,ASMR,6,1308,2,10,21,68,Night,3,7,Habit,8:30 PM,5,5,At home
+Waiting staff,TikTok,142,19,Jokes/Memes,7,1050,9,10,23,5,Evening,6,4,Procrastination,3:45 PM,8,2,At school
+driver,Instagram,283,3,Life Hacks,26,5479,3,27,32,10,Night,3,7,Habit,8:30 PM,5,5,At home
+Students,YouTube,175,15,Jokes/Memes,10,2249,4,24,8,52,Morning,8,2,Entertainment,9:15 AM,10,0,At home
+Students,TikTok,252,7,Life Hacks,16,2809,8,2,31,29,Evening,6,4,Habit,3:45 PM,8,2,At home
+Students,Instagram,147,7,Jokes/Memes,8,2921,4,29,37,96,Afternoon,5,5,Habit,6:05 PM,7,3,At school
+Labor/Worker,YouTube,88,6,Trends,9,4676,7,28,16,31,Afternoon,5,5,Procrastination,6:05 PM,7,3,At work
+Waiting staff,Facebook,179,3,Gaming,27,4041,5,27,40,66,Afternoon,5,5,Entertainment,6:05 PM,7,3,At home
+driver,TikTok,132,13,Entertainment,4,2417,9,8,42,76,Night,3,7,Habit,8:30 PM,5,5,At home
+Engineer,YouTube,185,7,Comedy,21,532,4,1,27,91,Evening,6,4,Habit,3:45 PM,8,2,At work
+driver,TikTok,91,5,Gaming,21,9090,3,1,40,69,Afternoon,5,5,Habit,6:05 PM,7,3,At work
+Waiting staff,Facebook,96,18,Pranks,8,8167,2,4,41,37,Afternoon,5,5,Procrastination,6:05 PM,7,3,At work
+Labor/Worker,YouTube,234,8,Vlogs,25,1469,1,7,18,27,Afternoon,5,5,Habit,6:05 PM,7,3,Commuting
+Engineer,Instagram,25,17,Life Hacks,7,9444,6,9,35,87,Night,3,7,Procrastination,8:30 PM,5,5,At home
+Engineer,YouTube,172,1,Life Hacks,15,7292,2,16,49,33,Evening,6,4,Boredom,3:45 PM,8,2,Commuting
+Labor/Worker,Instagram,107,14,ASMR,21,8961,8,5,15,68,Evening,6,4,Habit,3:45 PM,8,2,At school
+Waiting staff,YouTube,165,17,Pranks,3,9025,6,2,27,59,Evening,6,4,Boredom,3:45 PM,8,2,At work
+Artist,Instagram,11,10,Entertainment,17,7142,5,28,17,64,Evening,6,4,Habit,3:45 PM,8,2,At school
+Students,Facebook,178,12,Pranks,11,6000,2,23,40,85,Morning,8,2,Boredom,9:15 AM,10,0,At work
+driver,Facebook,101,16,Life Hacks,9,7081,7,11,2,88,Evening,6,4,Entertainment,3:45 PM,8,2,At school
+Labor/Worker,Facebook,190,14,Entertainment,5,4649,2,18,49,44,Morning,8,2,Entertainment,9:15 AM,10,0,At school
+Students,YouTube,240,16,Vlogs,25,6931,5,25,31,95,Night,3,7,Procrastination,8:30 PM,5,5,At work
+driver,Facebook,157,8,Pranks,10,3424,2,25,37,88,Afternoon,5,5,Habit,6:05 PM,7,3,Commuting
+driver,TikTok,289,10,Jokes/Memes,15,1091,2,19,41,49,Evening,6,4,Habit,3:45 PM,8,2,At home
+Artist,Facebook,198,17,Vlogs,28,9388,7,13,41,53,Night,3,7,Habit,8:30 PM,5,5,At school
+Waiting staff,Instagram,137,18,Pranks,29,9852,9,24,34,74,Night,3,7,Habit,8:30 PM,5,5,At school
+driver,Instagram,16,16,Comedy,14,7849,5,11,34,49,Evening,6,4,Boredom,3:45 PM,8,2,At home
+Labor/Worker,Instagram,56,17,ASMR,4,4654,7,20,3,66,Afternoon,5,5,Entertainment,6:05 PM,7,3,At work
+driver,YouTube,62,16,Gaming,21,260,4,19,17,95,Afternoon,5,5,Habit,6:05 PM,7,3,At home
+Waiting staff,TikTok,196,19,Pranks,20,5936,2,17,14,63,Evening,6,4,Boredom,3:45 PM,8,2,At home
+Waiting staff,Facebook,47,8,Comedy,2,9377,3,5,14,25,Evening,6,4,Entertainment,3:45 PM,8,2,At work
+Labor/Worker,TikTok,235,6,Jokes/Memes,12,4370,2,13,46,4,Evening,6,4,Entertainment,3:45 PM,8,2,Commuting
+driver,TikTok,62,6,Pranks,1,4301,5,27,38,51,Night,3,7,Entertainment,8:30 PM,5,5,At school
+Engineer,Instagram,233,9,Trends,24,7207,6,20,35,11,Night,3,7,Entertainment,8:30 PM,5,5,At home
+Labor/Worker,Instagram,163,4,Vlogs,20,5819,7,1,1,17,Afternoon,5,5,Entertainment,6:05 PM,7,3,Commuting
+Teacher,Instagram,57,12,Gaming,5,9058,3,10,48,66,Night,3,7,Habit,8:30 PM,5,5,At home
+Cashier,YouTube,156,12,Vlogs,6,92,4,8,29,70,Evening,6,4,Habit,3:45 PM,8,2,At work
+Waiting staff,TikTok,73,17,Pranks,24,5161,8,24,4,73,Morning,8,2,Boredom,9:15 AM,10,0,At home
+Students,TikTok,191,15,Vlogs,11,7632,4,29,33,69,Evening,6,4,Boredom,3:45 PM,8,2,At work
+Teacher,YouTube,134,9,Gaming,8,9543,7,8,17,84,Evening,6,4,Procrastination,3:45 PM,8,2,At home
+Labor/Worker,YouTube,188,7,Trends,7,6208,6,19,28,29,Evening,6,4,Boredom,3:45 PM,8,2,Commuting
+Students,YouTube,48,10,Entertainment,4,8556,7,6,26,85,Afternoon,5,5,Habit,6:05 PM,7,3,At work
+Waiting staff,TikTok,269,16,Vlogs,6,4916,1,12,8,73,Evening,6,4,Entertainment,3:45 PM,8,2,At home
+Students,TikTok,12,12,Vlogs,16,3718,3,28,34,92,Evening,6,4,Habit,3:45 PM,8,2,At school
+Waiting staff,Instagram,73,7,Jokes/Memes,20,6125,6,7,18,72,Night,3,7,Procrastination,8:30 PM,5,5,At home
+Students,Instagram,38,18,Pranks,15,1924,3,16,31,95,Night,3,7,Habit,8:30 PM,5,5,At work
+Labor/Worker,TikTok,20,15,Life Hacks,14,3095,7,9,27,20,Afternoon,5,5,Entertainment,6:05 PM,7,3,Commuting
+Teacher,Instagram,106,6,ASMR,23,6683,9,21,16,27,Evening,6,4,Habit,3:45 PM,8,2,At home
+Labor/Worker,YouTube,212,12,Jokes/Memes,12,5181,3,25,10,8,Night,3,7,Entertainment,8:30 PM,5,5,At work
+Waiting staff,Facebook,30,11,Trends,29,2538,1,22,40,85,Evening,6,4,Habit,3:45 PM,8,2,At home
+Students,Instagram,48,3,Jokes/Memes,12,9488,6,10,12,61,Evening,6,4,Boredom,3:45 PM,8,2,At school
+Waiting staff,TikTok,232,2,Jokes/Memes,16,2276,1,10,22,28,Afternoon,5,5,Habit,6:05 PM,7,3,At work
+Labor/Worker,Instagram,111,6,Life Hacks,15,8194,1,10,16,87,Afternoon,5,5,Habit,6:05 PM,7,3,At school
+Engineer,Instagram,55,5,Life Hacks,29,9945,8,20,12,70,Night,3,7,Entertainment,8:30 PM,5,5,At school
+Engineer,Instagram,75,18,Trends,13,910,9,29,11,3,Evening,6,4,Boredom,3:45 PM,8,2,Commuting
+Waiting staff,Facebook,100,16,Pranks,11,306,2,16,20,69,Morning,8,2,Boredom,9:15 AM,10,0,At work
+Students,YouTube,173,8,Entertainment,17,6575,9,1,1,73,Afternoon,5,5,Habit,6:05 PM,7,3,Commuting
+Waiting staff,TikTok,120,11,Vlogs,21,4231,5,17,27,7,Afternoon,5,5,Entertainment,6:05 PM,7,3,At home
+Engineer,Facebook,132,10,Vlogs,15,6028,8,26,3,60,Afternoon,5,5,Habit,6:05 PM,7,3,At home
+Cashier,TikTok,202,12,Jokes/Memes,14,6658,7,21,12,4,Afternoon,5,5,Boredom,6:05 PM,7,3,At school
+Waiting staff,TikTok,108,6,Gaming,10,6336,7,29,30,5,Evening,6,4,Boredom,3:45 PM,8,2,At home
+Artist,TikTok,168,5,Jokes/Memes,12,9630,4,14,9,11,Evening,6,4,Boredom,3:45 PM,8,2,At work
+Waiting staff,Facebook,112,9,Life Hacks,16,872,2,19,37,15,Night,3,7,Habit,8:30 PM,5,5,At school
+driver,YouTube,290,16,Entertainment,15,1141,5,21,1,64,Evening,6,4,Habit,3:45 PM,8,2,At work
+Students,TikTok,52,14,Trends,10,665,3,21,42,98,Morning,8,2,Entertainment,9:15 AM,10,0,At home
+Engineer,YouTube,93,8,Jokes/Memes,4,8400,9,17,49,13,Afternoon,5,5,Habit,6:05 PM,7,3,At work
+Manager,YouTube,200,19,Jokes/Memes,27,951,6,14,4,7,Morning,8,2,Entertainment,9:15 AM,10,0,At home
+driver,Instagram,60,14,Trends,23,9249,1,8,15,6,Night,3,7,Habit,8:30 PM,5,5,At school
+Manager,Facebook,219,7,Trends,29,4722,3,21,27,56,Night,3,7,Habit,8:30 PM,5,5,At work
+Students,Facebook,135,5,Jokes/Memes,9,4008,4,21,8,64,Night,3,7,Habit,8:30 PM,5,5,At home
+Waiting staff,Instagram,78,18,Jokes/Memes,21,6655,9,9,23,50,Evening,6,4,Boredom,3:45 PM,8,2,At school
+Engineer,Instagram,274,2,Entertainment,20,6190,6,8,15,30,Night,3,7,Procrastination,8:30 PM,5,5,At home
+Teacher,YouTube,267,11,Gaming,9,771,4,13,27,22,Night,3,7,Entertainment,8:30 PM,5,5,At work
+driver,TikTok,197,8,Jokes/Memes,21,4030,1,17,31,25,Afternoon,5,5,Boredom,6:05 PM,7,3,At school
+Students,Facebook,239,1,Entertainment,25,7859,8,19,39,28,Night,3,7,Habit,8:30 PM,5,5,At work
+Waiting staff,TikTok,198,12,Entertainment,24,521,2,28,47,84,Afternoon,5,5,Boredom,6:05 PM,7,3,At work
+driver,TikTok,19,2,Entertainment,20,3355,8,7,8,39,Afternoon,5,5,Entertainment,6:05 PM,7,3,At school
+Students,Instagram,123,18,Life Hacks,11,1400,6,17,30,67,Morning,8,2,Entertainment,9:15 AM,10,0,At school
+Engineer,TikTok,85,7,Gaming,11,3723,8,1,42,5,Afternoon,5,5,Entertainment,6:05 PM,7,3,At home
+Artist,YouTube,173,17,Comedy,7,6579,6,5,18,65,Evening,6,4,Habit,3:45 PM,8,2,Commuting
+driver,Instagram,94,14,Trends,21,3247,5,25,4,15,Evening,6,4,Habit,3:45 PM,8,2,Commuting
+Manager,TikTok,58,7,ASMR,10,1858,5,6,47,90,Afternoon,5,5,Entertainment,6:05 PM,7,3,At school
+Manager,Instagram,186,3,Gaming,4,4781,8,26,43,67,Night,3,7,Habit,8:30 PM,5,5,At work
+Students,YouTube,227,6,Gaming,5,4064,7,2,22,40,Night,3,7,Entertainment,8:30 PM,5,5,At school
+Manager,YouTube,198,2,ASMR,5,2398,8,27,3,98,Afternoon,5,5,Boredom,6:05 PM,7,3,Commuting
+Students,TikTok,239,17,Gaming,11,142,8,25,15,69,Night,3,7,Habit,8:30 PM,5,5,At home
+Students,Instagram,264,12,Jokes/Memes,9,5062,7,16,35,95,Afternoon,5,5,Habit,6:05 PM,7,3,At work
+driver,TikTok,245,12,Jokes/Memes,28,3469,2,22,47,77,Afternoon,5,5,Entertainment,6:05 PM,7,3,At school
+Waiting staff,TikTok,35,17,Life Hacks,16,3695,9,5,38,43,Afternoon,5,5,Entertainment,6:05 PM,7,3,At work
+Students,Instagram,81,10,Vlogs,9,717,7,5,33,1,Afternoon,5,5,Habit,6:05 PM,7,3,At work
+Waiting staff,TikTok,270,3,ASMR,22,642,6,12,14,22,Evening,6,4,Entertainment,3:45 PM,8,2,At school
+driver,YouTube,263,18,ASMR,4,2548,9,3,48,62,Night,3,7,Boredom,8:30 PM,5,5,At work
+Teacher,Instagram,280,13,Trends,2,8561,1,16,1,79,Afternoon,5,5,Boredom,6:05 PM,7,3,Commuting
+Students,Instagram,132,12,ASMR,14,3650,2,6,49,26,Night,3,7,Procrastination,8:30 PM,5,5,At school
+Labor/Worker,Instagram,153,17,Gaming,3,7549,1,15,26,18,Evening,6,4,Entertainment,3:45 PM,8,2,At home
+Students,Instagram,266,4,Life Hacks,18,8978,3,15,8,48,Night,3,7,Boredom,8:30 PM,5,5,At home
+Labor/Worker,TikTok,153,10,Gaming,21,949,5,29,16,9,Evening,6,4,Habit,3:45 PM,8,2,At school
+Engineer,TikTok,268,11,Life Hacks,6,5444,1,16,38,1,Morning,8,2,Boredom,9:15 AM,10,0,At school
+Students,YouTube,56,6,Entertainment,11,521,4,20,10,9,Morning,8,2,Entertainment,9:15 AM,10,0,At school
+Cashier,Facebook,22,6,ASMR,21,6632,8,13,42,23,Morning,8,2,Habit,9:15 AM,10,0,Commuting
+driver,Facebook,217,9,Vlogs,18,6048,6,12,37,45,Evening,6,4,Entertainment,3:45 PM,8,2,At school
+Labor/Worker,YouTube,244,15,Entertainment,12,354,1,10,26,2,Evening,6,4,Boredom,3:45 PM,8,2,At school
+Engineer,Facebook,158,2,ASMR,5,1482,1,14,28,14,Night,3,7,Boredom,8:30 PM,5,5,At home
+Students,YouTube,164,4,Life Hacks,9,9839,3,2,12,38,Evening,6,4,Habit,3:45 PM,8,2,At school
+Waiting staff,TikTok,175,5,Comedy,20,6994,8,29,20,40,Evening,6,4,Boredom,3:45 PM,8,2,At school
+Engineer,Instagram,99,17,Life Hacks,28,2215,8,3,49,63,Morning,8,2,Boredom,9:15 AM,10,0,At work
+Labor/Worker,Instagram,195,8,Life Hacks,26,4716,3,9,14,82,Night,3,7,Entertainment,8:30 PM,5,5,At school
+driver,TikTok,183,8,Comedy,18,8619,7,11,46,16,Morning,8,2,Habit,9:15 AM,10,0,At home
+Students,Instagram,226,12,Entertainment,19,5821,3,11,35,93,Evening,6,4,Habit,3:45 PM,8,2,At home
+Manager,Instagram,273,8,Jokes/Memes,3,2537,4,25,29,75,Afternoon,5,5,Habit,6:05 PM,7,3,At work
+Waiting staff,Facebook,106,19,Trends,9,6339,9,22,12,6,Night,3,7,Habit,8:30 PM,5,5,At work
+Teacher,TikTok,126,3,Trends,4,8736,4,10,18,3,Night,3,7,Boredom,8:30 PM,5,5,At school
+Labor/Worker,Facebook,208,18,Jokes/Memes,17,4919,3,26,44,14,Night,3,7,Boredom,8:30 PM,5,5,At home
+Labor/Worker,Facebook,30,19,Entertainment,17,7075,5,14,2,66,Evening,6,4,Entertainment,3:45 PM,8,2,At home
+Waiting staff,Instagram,209,19,Pranks,23,3765,7,9,2,96,Morning,8,2,Habit,9:15 AM,10,0,At home
+Labor/Worker,Instagram,257,15,Trends,23,8850,5,20,17,95,Night,3,7,Entertainment,8:30 PM,5,5,At home
+Waiting staff,TikTok,285,6,Jokes/Memes,2,7082,4,27,10,75,Evening,6,4,Boredom,3:45 PM,8,2,At school
+Students,Instagram,273,16,Jokes/Memes,9,2827,8,21,18,86,Evening,6,4,Habit,3:45 PM,8,2,At home
+Students,Instagram,67,8,Trends,9,2058,4,10,22,67,Afternoon,5,5,Entertainment,6:05 PM,7,3,At work
+Cashier,TikTok,40,16,Jokes/Memes,5,7749,2,22,19,31,Evening,6,4,Procrastination,3:45 PM,8,2,At home
+Teacher,Instagram,258,18,Jokes/Memes,15,730,6,29,1,33,Morning,8,2,Entertainment,9:15 AM,10,0,At school
+Engineer,Facebook,102,16,Trends,15,1832,2,9,24,88,Evening,6,4,Boredom,3:45 PM,8,2,At work
+Cashier,TikTok,274,11,Entertainment,3,8600,3,29,36,1,Afternoon,5,5,Boredom,6:05 PM,7,3,At work
+Students,Instagram,280,7,Gaming,19,6505,1,5,25,44,Night,3,7,Procrastination,8:30 PM,5,5,At home
+Students,YouTube,103,17,Jokes/Memes,28,7170,5,8,36,15,Night,3,7,Boredom,8:30 PM,5,5,At school
+Students,TikTok,163,17,Jokes/Memes,3,4179,9,11,31,37,Night,3,7,Habit,8:30 PM,5,5,Commuting
+Labor/Worker,TikTok,294,12,Gaming,6,6299,2,1,31,27,Evening,6,4,Entertainment,3:45 PM,8,2,At work
+driver,YouTube,89,13,Gaming,4,7830,7,21,2,48,Evening,6,4,Entertainment,3:45 PM,8,2,At home
+Labor/Worker,Instagram,93,10,Life Hacks,24,4802,5,10,19,27,Afternoon,5,5,Habit,6:05 PM,7,3,At home
+Students,Instagram,46,7,Entertainment,13,6057,2,1,12,12,Evening,6,4,Boredom,3:45 PM,8,2,Commuting
+Waiting staff,TikTok,241,14,Pranks,27,6615,8,26,10,67,Morning,8,2,Habit,9:15 AM,10,0,At home
+Teacher,TikTok,102,1,Gaming,13,6762,6,22,31,30,Night,3,7,Boredom,8:30 PM,5,5,At school
+Waiting staff,Instagram,111,17,Jokes/Memes,27,5543,4,7,45,96,Morning,8,2,Entertainment,9:15 AM,10,0,At work
+Labor/Worker,Instagram,175,4,Pranks,11,8325,4,28,22,87,Afternoon,5,5,Entertainment,6:05 PM,7,3,At school
+Students,Facebook,168,5,Pranks,5,4883,2,14,23,66,Night,3,7,Habit,8:30 PM,5,5,At school
+driver,TikTok,23,7,Jokes/Memes,1,7050,3,5,23,7,Morning,8,2,Habit,9:15 AM,10,0,At school
+Waiting staff,TikTok,234,10,Jokes/Memes,9,4959,7,17,15,34,Afternoon,5,5,Habit,6:05 PM,7,3,At school
+Students,YouTube,82,17,Gaming,17,666,3,22,26,32,Evening,6,4,Habit,3:45 PM,8,2,At home
+Labor/Worker,Facebook,258,7,Gaming,22,276,5,26,3,39,Evening,6,4,Entertainment,3:45 PM,8,2,At work
+Labor/Worker,Instagram,100,1,Jokes/Memes,1,881,6,21,23,96,Evening,6,4,Habit,3:45 PM,8,2,At work
+Students,Facebook,225,7,ASMR,3,2060,6,6,20,43,Afternoon,5,5,Habit,6:05 PM,7,3,At home
+Students,Instagram,99,11,ASMR,15,2082,4,16,45,43,Afternoon,5,5,Entertainment,6:05 PM,7,3,At work
+Students,Instagram,38,9,Trends,26,6702,6,11,40,78,Evening,6,4,Entertainment,3:45 PM,8,2,At school
+driver,Facebook,229,12,Life Hacks,21,9429,3,10,39,3,Night,3,7,Habit,8:30 PM,5,5,At home
+Students,TikTok,224,3,Entertainment,26,158,7,15,8,46,Night,3,7,Boredom,8:30 PM,5,5,At home
+Manager,Instagram,230,4,Gaming,23,5229,7,7,18,32,Night,3,7,Procrastination,8:30 PM,5,5,At work
+Labor/Worker,Facebook,51,4,ASMR,10,7956,4,23,41,43,Night,3,7,Procrastination,8:30 PM,5,5,At school
+Labor/Worker,YouTube,144,13,Life Hacks,8,7514,2,2,6,81,Evening,6,4,Habit,3:45 PM,8,2,At work
+Labor/Worker,Facebook,51,19,Pranks,12,7803,7,12,27,3,Evening,6,4,Boredom,3:45 PM,8,2,At home
+Labor/Worker,YouTube,173,10,Jokes/Memes,25,2526,3,19,36,74,Night,3,7,Boredom,8:30 PM,5,5,At home
+Students,Instagram,292,5,Vlogs,22,8302,1,12,15,63,Evening,6,4,Boredom,3:45 PM,8,2,Commuting
+Manager,Facebook,67,7,Jokes/Memes,15,7803,2,16,37,40,Night,3,7,Habit,8:30 PM,5,5,At home
+driver,Facebook,34,16,Pranks,27,6574,9,6,5,18,Evening,6,4,Boredom,3:45 PM,8,2,At home
+Waiting staff,YouTube,82,1,Life Hacks,9,8733,8,3,39,67,Night,3,7,Habit,8:30 PM,5,5,At home
+Labor/Worker,Facebook,138,12,Entertainment,24,1138,6,2,9,62,Night,3,7,Habit,8:30 PM,5,5,At home
+Waiting staff,Facebook,96,2,Vlogs,25,7257,6,20,7,10,Morning,8,2,Habit,9:15 AM,10,0,At home
+Labor/Worker,Instagram,162,7,Gaming,10,3283,1,5,41,52,Morning,8,2,Habit,7:45 AM,10,0,At home
+Students,Facebook,191,11,Vlogs,20,7762,2,11,20,73,Afternoon,5,5,Procrastination,7:25 PM,7,3,At home
+driver,TikTok,134,13,Life Hacks,9,7896,4,26,10,46,Afternoon,5,5,Boredom,7:25 PM,7,3,At work
+Students,YouTube,76,2,Gaming,15,2419,3,25,26,55,Afternoon,5,5,Boredom,7:25 PM,7,3,At school
+Engineer,Facebook,15,7,Vlogs,23,1756,1,3,4,46,Afternoon,5,5,Procrastination,7:25 PM,7,3,At home
+Students,YouTube,134,15,Entertainment,21,2306,8,3,38,75,Evening,6,4,Boredom,3:55 PM,8,2,At home
+Engineer,YouTube,62,11,Pranks,21,7630,7,22,24,60,Morning,8,2,Boredom,7:45 AM,10,0,At school
+driver,YouTube,75,2,Life Hacks,1,6263,4,5,14,97,Evening,6,4,Procrastination,3:55 PM,8,2,At home
+Cashier,Facebook,91,7,Entertainment,2,9167,9,22,41,26,Night,3,7,Habit,11:30 PM,5,5,At work
+driver,Facebook,96,4,Entertainment,26,5008,4,23,1,27,Evening,6,4,Boredom,3:55 PM,8,2,At work
+Engineer,YouTube,11,11,Jokes/Memes,19,5247,1,11,17,38,Night,3,7,Procrastination,11:30 PM,5,5,At work
+Waiting staff,TikTok,213,2,Jokes/Memes,14,8914,1,3,45,22,Night,3,7,Habit,11:30 PM,5,5,At home
+Students,YouTube,159,16,Vlogs,8,2570,1,13,24,26,Morning,8,2,Entertainment,7:45 AM,10,0,At home
+Waiting staff,TikTok,112,7,Trends,6,5807,1,21,27,86,Afternoon,5,5,Entertainment,7:25 PM,7,3,At work
+Students,YouTube,33,13,ASMR,12,7812,4,8,7,69,Evening,6,4,Habit,3:55 PM,8,2,At home
+Waiting staff,Instagram,221,5,Gaming,26,324,1,20,9,35,Morning,8,2,Boredom,7:45 AM,10,0,At school
+Manager,YouTube,74,17,ASMR,27,7487,2,10,43,66,Night,3,7,Boredom,11:30 PM,5,5,Commuting
+Students,YouTube,218,12,ASMR,29,9721,4,2,35,99,Evening,6,4,Habit,3:55 PM,8,2,At school
+Teacher,Facebook,260,19,Jokes/Memes,15,5645,7,4,12,73,Afternoon,5,5,Boredom,7:25 PM,7,3,Commuting
+Labor/Worker,TikTok,126,7,Life Hacks,14,1945,2,18,21,51,Night,3,7,Habit,11:30 PM,5,5,Commuting
+Students,Instagram,125,6,Vlogs,21,4486,8,19,3,18,Morning,8,2,Habit,7:45 AM,10,0,At school
+Students,TikTok,246,8,Entertainment,29,2430,7,4,15,43,Evening,6,4,Boredom,3:55 PM,8,2,At school
+Engineer,Instagram,114,13,Gaming,1,3510,9,20,21,12,Morning,8,2,Boredom,7:45 AM,10,0,Commuting
+Waiting staff,YouTube,268,5,Pranks,28,845,6,26,10,3,Night,3,7,Entertainment,11:30 PM,5,5,At home
+Waiting staff,Facebook,55,2,Jokes/Memes,11,567,4,9,33,82,Evening,6,4,Procrastination,3:55 PM,8,2,At work
+Waiting staff,Facebook,225,9,Comedy,28,2179,6,16,46,7,Evening,6,4,Habit,3:55 PM,8,2,At work
+Artist,TikTok,33,11,Pranks,25,2019,4,26,6,97,Night,3,7,Boredom,11:30 PM,5,5,At school
+Waiting staff,Facebook,44,6,ASMR,3,3319,7,6,2,6,Evening,6,4,Habit,3:55 PM,8,2,At home
+Engineer,TikTok,33,7,Trends,19,2320,9,25,29,82,Evening,6,4,Entertainment,3:55 PM,8,2,Commuting
+Teacher,TikTok,37,7,Vlogs,18,1646,3,4,40,45,Evening,6,4,Boredom,3:55 PM,8,2,At work
+Artist,Instagram,25,19,Pranks,20,3909,3,9,33,86,Evening,6,4,Habit,3:55 PM,8,2,At work
+Labor/Worker,TikTok,68,6,Trends,28,8015,2,27,4,39,Night,3,7,Boredom,11:30 PM,5,5,At home
+Students,Instagram,252,11,Comedy,2,3420,1,13,4,51,Evening,6,4,Boredom,3:55 PM,8,2,At home
+Waiting staff,Facebook,216,11,Gaming,29,356,1,9,29,9,Afternoon,5,5,Habit,7:25 PM,7,3,At work
+Students,TikTok,280,7,Comedy,25,7485,3,6,37,99,Night,3,7,Entertainment,11:30 PM,5,5,At work
+Engineer,TikTok,258,2,Life Hacks,28,3081,7,21,20,23,Evening,6,4,Habit,3:55 PM,8,2,At home
+Students,YouTube,276,19,Vlogs,26,2280,9,19,41,12,Morning,8,2,Boredom,7:45 AM,10,0,At home
+Labor/Worker,TikTok,202,4,Trends,7,4131,2,14,23,88,Night,3,7,Boredom,11:30 PM,5,5,At school
+Students,TikTok,227,6,Pranks,8,5123,7,21,45,62,Afternoon,6,4,Entertainment,7:25 PM,8,2,At school
+Students,YouTube,124,17,ASMR,19,7422,1,15,18,73,Evening,7,3,Habit,3:55 PM,9,1,At work
+Cashier,YouTube,77,5,Jokes/Memes,22,2787,2,3,49,77,Night,2,8,Entertainment,11:30 PM,4,6,At school
+Cashier,Facebook,84,7,Entertainment,15,4209,6,5,25,40,Night,2,8,Entertainment,11:30 PM,4,6,At work
+Labor/Worker,TikTok,112,9,Vlogs,10,6540,5,21,1,54,Evening,7,3,Boredom,3:55 PM,9,1,At school
+driver,Facebook,187,1,Pranks,22,9389,8,18,15,81,Morning,9,1,Habit,7:45 AM,10,0,At work
+Manager,Facebook,224,1,Life Hacks,29,9470,2,14,34,7,Evening,7,3,Boredom,3:55 PM,9,1,At school
+Students,YouTube,48,19,Life Hacks,1,465,1,16,48,17,Evening,7,3,Boredom,3:55 PM,9,1,At school
+Waiting staff,Instagram,268,6,Life Hacks,6,1487,7,14,20,50,Night,2,8,Entertainment,11:30 PM,4,6,At work
+Labor/Worker,Facebook,213,18,Gaming,13,4942,6,9,37,24,Morning,9,1,Entertainment,7:45 AM,10,0,At home
+Engineer,Instagram,16,10,Vlogs,14,4597,8,15,27,2,Evening,7,3,Boredom,3:55 PM,9,1,Commuting
+Labor/Worker,TikTok,58,11,Trends,3,4536,8,7,22,99,Night,2,8,Boredom,11:30 PM,4,6,At school
+driver,YouTube,35,1,Entertainment,11,325,2,14,5,92,Evening,7,3,Boredom,3:55 PM,9,1,At home
+driver,TikTok,170,1,Jokes/Memes,3,9957,8,6,34,83,Afternoon,6,4,Habit,7:25 PM,8,2,At school
+Waiting staff,TikTok,185,13,Entertainment,19,4162,6,21,39,33,Evening,7,3,Boredom,3:55 PM,9,1,At work
+driver,YouTube,88,5,Entertainment,10,303,9,15,3,21,Evening,7,3,Entertainment,3:55 PM,9,1,At work
+Manager,TikTok,11,1,Vlogs,27,5067,7,20,17,74,Evening,7,3,Boredom,3:55 PM,9,1,At home
+driver,YouTube,141,3,Entertainment,15,5024,2,8,24,53,Night,2,8,Entertainment,11:30 PM,4,6,At home
+Labor/Worker,Instagram,285,18,Trends,11,7715,8,2,24,46,Afternoon,6,4,Entertainment,7:25 PM,8,2,Commuting
+Labor/Worker,TikTok,126,9,Jokes/Memes,15,9632,9,8,3,45,Evening,7,3,Boredom,3:55 PM,9,1,At school
+Waiting staff,YouTube,173,14,Trends,26,8340,7,1,45,9,Evening,7,3,Entertainment,3:55 PM,9,1,At home
+Manager,Facebook,297,17,Vlogs,27,2631,4,26,7,6,Afternoon,6,4,Boredom,7:25 PM,8,2,At work
+Students,TikTok,37,14,Entertainment,24,6391,9,17,25,51,Afternoon,6,4,Habit,7:25 PM,8,2,At work
+Labor/Worker,Instagram,10,4,Vlogs,13,8287,4,19,3,35,Afternoon,6,4,Procrastination,7:25 PM,8,2,At home
+Labor/Worker,YouTube,197,5,Life Hacks,5,2369,4,5,15,82,Afternoon,6,4,Boredom,7:25 PM,8,2,At home
+Labor/Worker,TikTok,65,17,Jokes/Memes,4,528,9,22,29,53,Morning,9,1,Procrastination,7:45 AM,10,0,At home
+Engineer,TikTok,44,2,Life Hacks,13,4675,8,20,29,19,Afternoon,6,4,Entertainment,7:25 PM,8,2,At work
+Labor/Worker,TikTok,121,5,Jokes/Memes,9,1663,4,16,10,69,Night,2,8,Habit,11:30 PM,4,6,At work
+Waiting staff,Instagram,295,4,ASMR,25,3364,8,7,32,25,Evening,7,3,Habit,3:55 PM,9,1,At home
+driver,YouTube,45,4,Trends,17,2341,8,7,23,11,Afternoon,6,4,Entertainment,7:25 PM,8,2,Commuting
+Students,Facebook,226,6,Vlogs,2,6656,7,18,39,74,Evening,7,3,Procrastination,3:55 PM,9,1,At school
+Manager,Facebook,89,13,Life Hacks,24,4905,6,18,9,17,Morning,9,1,Boredom,7:45 AM,10,0,At work
+Students,Facebook,92,5,Vlogs,5,8884,8,2,37,36,Night,2,8,Entertainment,11:30 PM,4,6,At school
+driver,YouTube,74,7,Jokes/Memes,16,9143,7,15,40,90,Morning,9,1,Habit,7:45 AM,10,0,At home
+Students,Facebook,137,1,Gaming,7,5950,5,14,14,95,Night,2,8,Entertainment,11:30 PM,4,6,At home
+Labor/Worker,Instagram,31,14,Comedy,1,1360,4,18,4,96,Night,2,8,Habit,11:30 PM,4,6,At work
+Students,YouTube,225,4,Jokes/Memes,28,5127,2,29,20,21,Afternoon,6,4,Habit,7:25 PM,8,2,At work
+Manager,TikTok,116,17,Life Hacks,26,5562,8,9,28,18,Morning,9,1,Boredom,7:45 AM,10,0,Commuting
+Manager,Instagram,118,14,Comedy,12,8730,9,14,14,60,Night,2,8,Entertainment,11:30 PM,4,6,At home
+driver,TikTok,190,16,Life Hacks,21,9011,4,5,44,18,Morning,9,1,Habit,7:45 AM,10,0,At school
+driver,Facebook,173,14,Gaming,11,5777,4,11,34,1,Afternoon,6,4,Procrastination,7:25 PM,8,2,At home
+Students,Instagram,77,16,Entertainment,12,3925,5,8,13,14,Evening,7,3,Entertainment,3:55 PM,9,1,At home
+driver,YouTube,189,8,Trends,19,8463,2,5,31,8,Evening,7,3,Entertainment,3:55 PM,9,1,Commuting
+Labor/Worker,Instagram,190,3,Pranks,26,8001,7,29,33,66,Night,2,8,Entertainment,11:30 PM,4,6,At home
+Labor/Worker,TikTok,178,19,Jokes/Memes,12,1028,5,11,39,51,Morning,9,1,Procrastination,7:45 AM,10,0,Commuting
+Waiting staff,YouTube,31,1,Life Hacks,12,6018,6,5,28,79,Night,2,8,Boredom,11:30 PM,4,6,At home
+Artist,Instagram,75,2,Comedy,14,1242,4,17,25,60,Afternoon,6,4,Habit,7:25 PM,8,2,At home
+Waiting staff,Instagram,30,15,Trends,2,9333,8,22,32,34,Evening,7,3,Habit,3:55 PM,9,1,At home
+Labor/Worker,Instagram,109,10,Trends,2,8784,8,4,9,36,Evening,7,3,Boredom,3:55 PM,9,1,At home
+Waiting staff,Instagram,112,18,Life Hacks,25,7119,5,15,28,62,Night,2,8,Entertainment,11:30 PM,4,6,At work
+Labor/Worker,YouTube,56,14,Life Hacks,29,9797,6,19,31,1,Afternoon,6,4,Boredom,7:25 PM,8,2,At work
+Waiting staff,TikTok,48,17,Gaming,4,4210,3,22,17,85,Evening,7,3,Boredom,3:55 PM,9,1,At home
+Students,Instagram,294,13,Pranks,20,6406,1,2,23,42,Evening,7,3,Entertainment,3:55 PM,9,1,Commuting
+driver,YouTube,99,1,Vlogs,23,3377,9,24,13,1,Evening,7,3,Entertainment,3:55 PM,9,1,At home
+Students,TikTok,94,5,Jokes/Memes,26,4071,9,17,10,96,Evening,7,3,Habit,3:55 PM,9,1,At work
+Students,Instagram,282,13,ASMR,16,1440,3,12,16,84,Night,2,8,Boredom,11:30 PM,4,6,At home
+Students,TikTok,197,14,Entertainment,10,3626,4,25,6,54,Night,2,8,Habit,11:30 PM,4,6,At home
+Labor/Worker,TikTok,168,3,Gaming,13,184,7,24,48,47,Afternoon,6,4,Procrastination,7:25 PM,8,2,At school
+Waiting staff,YouTube,252,15,Jokes/Memes,2,4996,2,17,11,39,Night,2,8,Procrastination,11:30 PM,4,6,At work
+Engineer,TikTok,82,19,Vlogs,3,8412,3,10,3,30,Night,2,8,Entertainment,11:30 PM,4,6,At home
+driver,YouTube,58,17,Entertainment,19,8031,6,28,28,7,Night,2,8,Entertainment,11:30 PM,4,6,At home
+Artist,Instagram,110,3,Gaming,6,5563,8,25,41,22,Morning,9,1,Entertainment,7:45 AM,10,0,At work
+Waiting staff,TikTok,11,16,Jokes/Memes,19,3188,1,18,15,50,Morning,9,1,Boredom,7:45 AM,10,0,At home
+driver,TikTok,253,14,Vlogs,27,9285,4,19,13,45,Night,2,8,Habit,11:30 PM,4,6,At home
+Students,Facebook,185,12,Vlogs,21,2945,1,18,42,74,Morning,9,1,Entertainment,7:45 AM,10,0,At home
+Students,Instagram,247,12,Jokes/Memes,20,6765,2,13,45,72,Evening,7,3,Entertainment,3:55 PM,9,1,At home
+Students,Instagram,68,11,Life Hacks,19,2474,8,14,17,91,Morning,9,1,Boredom,7:45 AM,10,0,At home
+Waiting staff,Facebook,108,17,ASMR,8,6787,6,24,7,10,Afternoon,6,4,Boredom,7:25 PM,8,2,Commuting
+Manager,Facebook,11,8,Jokes/Memes,14,8792,9,16,28,14,Afternoon,6,4,Entertainment,7:25 PM,8,2,At school
+Labor/Worker,YouTube,252,17,Jokes/Memes,10,9352,2,18,38,46,Evening,7,3,Entertainment,3:55 PM,9,1,At work
+Students,YouTube,220,11,Comedy,3,4599,3,26,13,75,Evening,7,3,Habit,3:55 PM,9,1,At home
+Labor/Worker,TikTok,132,2,Vlogs,6,6274,9,18,17,6,Afternoon,6,4,Entertainment,7:25 PM,8,2,At work
+Labor/Worker,TikTok,238,10,Pranks,29,4313,9,16,15,21,Night,2,8,Procrastination,11:30 PM,4,6,At work
+Labor/Worker,TikTok,91,10,Jokes/Memes,15,2218,6,17,36,62,Night,2,8,Habit,11:30 PM,4,6,Commuting
+Students,TikTok,153,11,Gaming,23,1152,3,7,28,97,Afternoon,6,4,Boredom,7:25 PM,8,2,At school
+Engineer,YouTube,149,6,ASMR,23,56,5,12,15,19,Morning,9,1,Entertainment,7:45 AM,10,0,At work
+Labor/Worker,Instagram,38,4,Vlogs,18,9396,2,2,46,88,Night,2,8,Entertainment,11:30 PM,4,6,At home
+Labor/Worker,TikTok,279,12,Comedy,14,143,7,10,11,82,Afternoon,6,4,Boredom,7:25 PM,8,2,At work
+Students,Instagram,256,11,Entertainment,19,7218,8,5,31,99,Evening,7,3,Procrastination,3:55 PM,9,1,At home
+Waiting staff,TikTok,21,13,Vlogs,28,8559,6,21,4,62,Afternoon,6,4,Habit,7:25 PM,8,2,At school
+Waiting staff,Facebook,115,5,Trends,26,9674,8,3,35,83,Morning,9,1,Entertainment,7:45 AM,10,0,At work
+Students,TikTok,41,6,Gaming,10,6361,2,19,34,53,Morning,9,1,Boredom,7:45 AM,10,0,At home
+Students,TikTok,83,1,Life Hacks,15,615,3,13,27,24,Afternoon,6,4,Boredom,7:25 PM,8,2,At work
+Engineer,TikTok,180,6,Vlogs,4,8062,7,12,10,56,Night,2,8,Entertainment,11:30 PM,4,6,At school
+Labor/Worker,YouTube,78,18,Life Hacks,23,5977,1,3,30,62,Evening,7,3,Entertainment,3:55 PM,9,1,At school
+Waiting staff,Facebook,146,9,Trends,2,9780,7,6,45,34,Afternoon,6,4,Habit,7:25 PM,8,2,At school
+Teacher,TikTok,109,15,Jokes/Memes,3,6984,6,14,20,22,Evening,7,3,Entertainment,3:55 PM,9,1,At school
+Artist,TikTok,155,8,Jokes/Memes,7,8890,8,4,29,68,Afternoon,6,4,Habit,7:25 PM,8,2,At home
+Waiting staff,Instagram,18,19,Life Hacks,23,4971,7,13,29,57,Morning,9,1,Boredom,7:45 AM,10,0,At home
+Students,Facebook,71,16,Life Hacks,16,5781,4,19,23,10,Afternoon,6,4,Procrastination,7:25 PM,8,2,At work
+Engineer,TikTok,194,6,Trends,10,944,3,18,21,66,Evening,7,3,Habit,3:55 PM,9,1,At work
+Artist,Instagram,38,6,Comedy,19,9114,3,29,48,8,Night,2,8,Habit,11:30 PM,4,6,At school
+Waiting staff,Instagram,123,3,Gaming,28,7078,4,3,43,97,Night,2,8,Boredom,11:30 PM,4,6,At work
+Artist,YouTube,152,10,Entertainment,17,1746,9,20,10,38,Night,2,8,Procrastination,11:30 PM,4,6,At school
+Cashier,Instagram,129,1,Pranks,28,5783,9,6,41,62,Evening,7,3,Procrastination,3:55 PM,9,1,At home
+Labor/Worker,TikTok,179,14,Jokes/Memes,19,9751,2,16,12,28,Night,2,8,Entertainment,11:30 PM,4,6,At work
+Students,YouTube,166,4,Vlogs,5,6907,5,20,30,10,Night,2,8,Entertainment,11:30 PM,4,6,At home
+Cashier,YouTube,269,12,Gaming,23,9275,1,24,33,45,Night,2,8,Habit,11:30 PM,4,6,At home
+Manager,TikTok,91,6,Life Hacks,20,8625,4,3,18,65,Night,2,8,Entertainment,11:30 PM,4,6,At school
+driver,Facebook,251,11,Trends,13,2926,2,12,14,98,Evening,7,3,Procrastination,3:55 PM,9,1,At school
+driver,Instagram,181,12,ASMR,13,1089,8,19,22,67,Night,2,8,Boredom,11:30 PM,4,6,At home
+Students,YouTube,240,10,Life Hacks,11,2957,4,19,21,9,Evening,7,3,Boredom,3:55 PM,9,1,At work
+Artist,Facebook,217,18,Gaming,11,2612,5,24,1,5,Evening,7,3,Boredom,3:55 PM,9,1,At school
+Students,TikTok,84,7,Trends,16,6047,4,4,49,10,Evening,7,3,Habit,3:55 PM,9,1,Commuting
+Waiting staff,Instagram,279,7,Trends,15,6249,5,1,43,12,Night,2,8,Habit,11:30 PM,4,6,At work
+Waiting staff,Instagram,123,11,Trends,17,3759,5,2,15,82,Night,2,8,Boredom,11:30 PM,4,6,At school
+Students,YouTube,71,4,Jokes/Memes,22,7718,5,13,36,58,Night,2,8,Habit,11:30 PM,4,6,At home
+Manager,Instagram,111,1,Pranks,18,4263,3,26,47,21,Afternoon,6,4,Habit,7:25 PM,8,2,Commuting
+Labor/Worker,Instagram,219,13,Jokes/Memes,28,1902,7,29,22,21,Afternoon,6,4,Habit,7:25 PM,8,2,At home
+Waiting staff,Instagram,264,18,Comedy,19,2567,3,13,32,65,Evening,7,3,Habit,3:55 PM,9,1,At school
+Students,Instagram,29,9,ASMR,4,8075,2,2,46,3,Evening,7,3,Boredom,3:55 PM,9,1,At school
+Manager,TikTok,67,9,Life Hacks,22,2994,3,19,33,69,Evening,7,3,Boredom,3:55 PM,9,1,At school
+Cashier,Facebook,121,9,Vlogs,22,5229,3,22,41,89,Night,3,7,Habit,11:30 PM,5,5,At home
+driver,TikTok,205,10,Vlogs,23,2010,8,24,39,64,Night,3,7,Procrastination,11:30 PM,5,5,At school
+Labor/Worker,TikTok,101,2,ASMR,5,7377,4,16,23,49,Afternoon,6,4,Boredom,7:25 PM,8,2,At home
+Engineer,YouTube,61,6,Comedy,7,830,3,12,43,72,Night,3,7,Entertainment,11:30 PM,5,5,At home
+Teacher,Instagram,17,15,Gaming,2,48,5,1,2,17,Evening,7,3,Procrastination,3:55 PM,9,1,At home
+Students,TikTok,107,3,Entertainment,1,4210,4,9,2,73,Afternoon,6,4,Boredom,7:25 PM,8,2,At home
+Cashier,Instagram,245,11,Jokes/Memes,12,1178,9,17,38,32,Evening,7,3,Habit,3:55 PM,9,1,At work
+Manager,TikTok,78,6,Jokes/Memes,10,5768,8,10,29,70,Evening,7,3,Entertainment,3:55 PM,9,1,At work
+Labor/Worker,TikTok,54,3,Entertainment,8,7878,7,18,46,21,Evening,7,3,Habit,3:55 PM,9,1,Commuting
+Students,YouTube,146,11,Pranks,1,70,8,19,3,7,Evening,7,3,Boredom,3:55 PM,9,1,At school
+Cashier,Facebook,243,15,Pranks,12,7686,5,7,39,7,Morning,9,1,Habit,7:45 AM,10,0,At work
+Waiting staff,Facebook,41,13,Pranks,2,7879,4,25,7,27,Night,3,7,Habit,11:30 PM,5,5,At work
+Waiting staff,TikTok,298,10,Gaming,27,5455,7,19,36,8,Night,3,7,Habit,11:30 PM,5,5,At home
+driver,YouTube,135,6,Trends,28,8258,1,24,29,73,Afternoon,6,4,Entertainment,7:25 PM,8,2,Commuting
+Students,Instagram,76,15,Pranks,10,5612,6,15,37,28,Evening,7,3,Procrastination,3:55 PM,9,1,At work
+Students,Instagram,39,18,Vlogs,22,5769,8,9,49,79,Evening,7,3,Procrastination,3:55 PM,9,1,At home
+driver,TikTok,123,18,Comedy,17,1777,7,10,36,66,Night,3,7,Habit,11:30 PM,5,5,At school
+Teacher,Facebook,213,7,Jokes/Memes,26,7380,2,23,23,71,Evening,5,5,Habit,3:55 PM,7,3,At home
+Students,YouTube,38,15,Trends,3,2228,7,20,45,47,Evening,5,5,Boredom,3:55 PM,7,3,At school
+Manager,Facebook,140,18,Vlogs,7,9981,6,20,16,82,Evening,5,5,Boredom,3:55 PM,7,3,At work
+Students,Instagram,194,18,Jokes/Memes,12,8804,5,4,48,86,Night,1,9,Procrastination,11:30 PM,3,7,At work
+Students,Facebook,262,9,Life Hacks,8,9814,4,6,31,10,Night,1,9,Habit,11:30 PM,3,7,At home
+Labor/Worker,Instagram,295,2,Jokes/Memes,20,8888,1,4,34,33,Night,1,9,Habit,11:30 PM,3,7,At home
+Waiting staff,YouTube,71,8,Jokes/Memes,12,6746,2,5,1,7,Evening,5,5,Procrastination,3:55 PM,7,3,At home
+Waiting staff,YouTube,12,2,Gaming,3,6391,7,9,18,3,Night,1,9,Boredom,11:30 PM,3,7,At home
+Cashier,TikTok,77,11,Jokes/Memes,17,9429,3,12,40,14,Afternoon,4,6,Boredom,7:25 PM,6,4,At school
+Students,TikTok,34,7,Pranks,28,2406,5,23,43,44,Night,1,9,Entertainment,11:30 PM,3,7,At work
+Teacher,Facebook,188,6,Life Hacks,9,8440,8,8,15,46,Afternoon,4,6,Habit,7:25 PM,6,4,At school
+Waiting staff,YouTube,150,10,Pranks,10,637,8,21,48,61,Evening,5,5,Habit,3:55 PM,7,3,At school
+Labor/Worker,YouTube,240,5,Vlogs,22,8090,6,5,49,36,Evening,5,5,Habit,3:55 PM,7,3,At work
+Students,TikTok,172,11,Pranks,6,949,5,29,17,13,Evening,5,5,Entertainment,3:55 PM,7,3,At work
+driver,Instagram,139,1,Vlogs,25,3587,2,11,44,16,Evening,5,5,Boredom,3:55 PM,7,3,At home
+driver,Facebook,255,2,ASMR,1,1111,9,23,10,80,Night,1,9,Procrastination,11:30 PM,3,7,At school
+Teacher,Facebook,181,1,Vlogs,22,8367,1,11,20,5,Morning,7,3,Boredom,7:45 AM,9,1,At school
+Teacher,TikTok,73,19,Life Hacks,12,722,2,13,6,89,Night,1,9,Habit,11:30 PM,3,7,At school
+Cashier,YouTube,40,2,ASMR,5,3842,1,14,8,38,Evening,5,5,Habit,3:55 PM,7,3,At home
+Labor/Worker,TikTok,56,4,Vlogs,13,3674,4,28,45,50,Morning,7,3,Entertainment,7:45 AM,9,1,At work
+Students,TikTok,139,12,Gaming,27,4866,4,8,34,38,Night,1,9,Habit,11:30 PM,3,7,At work
+Labor/Worker,TikTok,119,18,Gaming,15,702,5,25,32,56,Evening,5,5,Entertainment,3:55 PM,7,3,At work
+Students,TikTok,78,1,Comedy,22,2128,5,18,42,63,Evening,5,5,Habit,3:55 PM,7,3,At work
+Waiting staff,Instagram,67,1,Jokes/Memes,11,9118,8,19,4,48,Night,1,9,Boredom,11:30 PM,3,7,At home
+Labor/Worker,Instagram,115,14,Vlogs,8,4233,3,12,44,90,Night,1,9,Boredom,11:30 PM,3,7,At home
+Labor/Worker,YouTube,265,4,Life Hacks,5,2517,6,12,39,59,Evening,5,5,Habit,3:55 PM,7,3,At home
+Cashier,TikTok,180,5,ASMR,2,1149,3,18,20,77,Night,1,9,Entertainment,11:30 PM,3,7,At work
+Labor/Worker,Instagram,171,11,Gaming,12,1878,2,10,24,44,Afternoon,4,6,Boredom,7:25 PM,6,4,At home
+Cashier,YouTube,295,13,Gaming,28,9445,8,7,24,90,Evening,5,5,Entertainment,3:55 PM,7,3,At work
+Labor/Worker,TikTok,80,16,Entertainment,2,9675,1,28,26,55,Afternoon,4,6,Entertainment,7:25 PM,6,4,At home
+Teacher,Facebook,264,13,Jokes/Memes,26,309,9,18,25,55,Night,1,9,Habit,11:30 PM,3,7,At school
+Labor/Worker,Instagram,64,2,Entertainment,16,3952,7,12,36,1,Night,1,9,Boredom,11:30 PM,3,7,At work
+Students,YouTube,12,16,Comedy,21,7728,4,14,7,8,Afternoon,4,6,Boredom,7:25 PM,6,4,At work
+Labor/Worker,Facebook,35,6,Pranks,3,3049,3,15,10,4,Night,1,9,Entertainment,10:15 PM,3,7,At school
+Students,TikTok,135,14,Jokes/Memes,10,5766,6,16,47,85,Morning,7,3,Entertainment,9:55 AM,9,1,At home
+Cashier,TikTok,62,1,Life Hacks,19,9756,9,2,12,86,Morning,7,3,Boredom,9:55 AM,9,1,At home
+Students,TikTok,207,17,Life Hacks,8,9692,9,18,1,53,Night,1,9,Habit,10:15 PM,3,7,At home
+Waiting staff,Instagram,197,11,Vlogs,7,6412,4,12,25,58,Evening,5,5,Procrastination,4:25 PM,7,3,At school
+Waiting staff,YouTube,195,19,Trends,1,4865,5,16,16,37,Night,1,9,Entertainment,10:15 PM,3,7,At work
+Waiting staff,Facebook,213,3,Gaming,12,15,9,13,5,49,Evening,5,5,Habit,4:25 PM,7,3,At home
+Artist,YouTube,20,11,Entertainment,29,605,2,20,19,67,Evening,5,5,Entertainment,4:25 PM,7,3,At home
+driver,Instagram,155,5,ASMR,28,9573,2,17,4,19,Morning,7,3,Entertainment,9:55 AM,9,1,At work
+Students,YouTube,94,17,Life Hacks,5,4908,5,18,6,1,Night,1,9,Entertainment,10:15 PM,3,7,At school
+Waiting staff,Instagram,109,7,Jokes/Memes,16,8006,1,3,26,29,Night,1,9,Boredom,10:15 PM,3,7,At work
+Cashier,TikTok,113,10,Life Hacks,25,9086,8,23,49,87,Evening,5,5,Boredom,4:25 PM,7,3,At school
+driver,Facebook,55,11,Life Hacks,4,9759,5,10,39,33,Afternoon,4,6,Habit,5:45 PM,6,4,At work
+Waiting staff,TikTok,53,3,Pranks,17,6412,2,1,39,52,Morning,7,3,Entertainment,9:55 AM,9,1,At school
+Labor/Worker,YouTube,287,10,Trends,24,8605,9,6,9,41,Afternoon,4,6,Entertainment,5:45 PM,6,4,At work
+driver,TikTok,190,10,Trends,21,4120,2,3,45,23,Afternoon,4,6,Entertainment,5:45 PM,6,4,At home
+driver,Facebook,196,14,Gaming,2,8507,7,19,14,5,Evening,5,5,Procrastination,4:25 PM,7,3,At home
+Students,TikTok,123,12,Entertainment,12,4666,8,4,48,71,Night,1,9,Procrastination,10:15 PM,3,7,At school
+Labor/Worker,Facebook,264,15,Vlogs,1,4820,6,29,9,57,Evening,5,5,Habit,4:25 PM,7,3,At work
+Manager,Facebook,39,10,Entertainment,12,7835,7,20,15,6,Evening,5,5,Habit,4:25 PM,7,3,At home
+Waiting staff,TikTok,273,10,Comedy,12,1849,1,23,37,49,Night,1,9,Entertainment,10:15 PM,3,7,At home
+Waiting staff,Instagram,107,19,Vlogs,12,1953,4,3,20,22,Evening,5,5,Entertainment,4:25 PM,7,3,At work
+Labor/Worker,YouTube,124,1,Gaming,19,8580,7,8,8,77,Night,1,9,Habit,10:15 PM,3,7,At home
+Labor/Worker,Instagram,285,10,Vlogs,25,2769,1,8,32,76,Evening,5,5,Entertainment,4:25 PM,7,3,At school
+Labor/Worker,Instagram,290,2,Jokes/Memes,17,3046,1,27,47,4,Afternoon,4,6,Boredom,5:45 PM,6,4,At home
+Cashier,TikTok,284,17,Gaming,20,7594,6,29,21,72,Night,1,9,Boredom,10:15 PM,3,7,At home
+Waiting staff,YouTube,270,7,Trends,24,6840,4,7,41,64,Night,1,9,Boredom,10:15 PM,3,7,At school
+Waiting staff,YouTube,216,7,Trends,24,5066,3,2,19,37,Evening,5,5,Procrastination,4:25 PM,7,3,At work
+Students,Instagram,220,9,Vlogs,26,2415,5,21,29,31,Afternoon,4,6,Boredom,5:45 PM,6,4,At home
+Artist,TikTok,224,2,ASMR,28,2389,9,6,31,37,Evening,5,5,Entertainment,4:25 PM,7,3,At home
+Students,YouTube,49,14,Pranks,11,5924,3,28,6,45,Afternoon,4,6,Habit,5:45 PM,6,4,At home
+Labor/Worker,Instagram,35,17,Entertainment,13,8495,5,16,4,90,Morning,7,3,Boredom,9:55 AM,9,1,At home
+Engineer,YouTube,36,1,Jokes/Memes,27,763,5,10,43,8,Evening,5,5,Boredom,4:25 PM,7,3,At home
+Artist,TikTok,199,9,Entertainment,8,7541,9,4,29,40,Morning,7,3,Entertainment,9:55 AM,9,1,At home
+Labor/Worker,TikTok,92,19,Gaming,10,815,4,13,42,97,Afternoon,4,6,Habit,5:45 PM,6,4,At school
+Labor/Worker,TikTok,179,4,Jokes/Memes,8,6255,1,10,3,93,Afternoon,4,6,Entertainment,5:45 PM,6,4,At home
+Engineer,YouTube,176,8,Trends,20,877,5,21,1,5,Evening,5,5,Habit,4:25 PM,7,3,At school
+Waiting staff,Facebook,197,13,ASMR,8,7173,1,14,44,28,Evening,5,5,Habit,4:25 PM,7,3,At school
+Waiting staff,YouTube,178,4,ASMR,9,7073,6,9,15,81,Evening,5,5,Boredom,4:25 PM,7,3,At work
+Waiting staff,Facebook,298,9,Life Hacks,7,4798,7,11,47,87,Night,1,9,Habit,10:15 PM,3,7,At work
+driver,TikTok,238,9,Trends,14,6989,1,23,21,9,Night,1,9,Habit,10:15 PM,3,7,At work
+driver,Instagram,106,18,ASMR,28,5039,4,18,46,2,Afternoon,4,6,Habit,5:45 PM,6,4,At school
+Students,Facebook,25,12,Jokes/Memes,2,9771,9,11,31,63,Afternoon,4,6,Procrastination,5:45 PM,6,4,At work
+Engineer,TikTok,288,10,Gaming,25,6324,1,17,7,96,Evening,5,5,Habit,4:25 PM,7,3,At school
+Students,TikTok,144,11,Trends,11,9395,9,2,17,51,Evening,5,5,Habit,4:25 PM,7,3,At home
+Labor/Worker,Facebook,35,7,Jokes/Memes,8,2823,8,3,19,31,Evening,5,5,Boredom,4:25 PM,7,3,At home
+Students,Instagram,21,9,ASMR,13,5287,5,11,39,7,Evening,5,5,Procrastination,4:25 PM,7,3,At work
+Labor/Worker,TikTok,81,6,Jokes/Memes,21,3285,6,18,3,30,Afternoon,4,6,Entertainment,5:45 PM,6,4,At school
+Waiting staff,Facebook,142,19,Entertainment,15,7433,7,27,30,58,Night,1,9,Boredom,10:15 PM,3,7,At home
+Students,Instagram,115,16,ASMR,28,6174,4,3,35,3,Evening,5,5,Boredom,4:25 PM,7,3,At work
+Labor/Worker,Instagram,229,15,Pranks,3,4826,6,26,29,51,Night,1,9,Habit,10:15 PM,3,7,At school
+Labor/Worker,TikTok,186,7,Life Hacks,23,3664,7,15,14,56,Night,1,9,Entertainment,10:15 PM,3,7,Commuting
+Cashier,YouTube,291,16,Vlogs,14,497,6,11,35,73,Afternoon,4,6,Entertainment,5:45 PM,6,4,At work
+Artist,YouTube,142,5,Vlogs,15,7641,6,11,28,10,Evening,5,5,Habit,4:25 PM,7,3,At home
+Waiting staff,TikTok,31,16,Jokes/Memes,2,4643,2,28,30,61,Night,1,9,Boredom,10:15 PM,3,7,Commuting
+Students,Instagram,278,1,Vlogs,29,5056,5,28,26,50,Night,1,9,Habit,10:15 PM,3,7,At home
+Students,TikTok,170,19,Pranks,19,131,3,25,7,47,Night,1,9,Boredom,10:15 PM,3,7,At school
+Labor/Worker,Facebook,116,5,Life Hacks,12,5443,7,20,39,90,Afternoon,4,6,Procrastination,5:45 PM,6,4,At home
+Students,YouTube,288,7,Gaming,25,857,4,28,31,1,Night,1,9,Boredom,10:15 PM,3,7,At home
+Labor/Worker,Facebook,244,19,Pranks,20,8712,1,25,5,94,Evening,5,5,Procrastination,4:25 PM,7,3,At school
+Labor/Worker,TikTok,27,5,Gaming,4,8221,6,11,35,57,Evening,5,5,Procrastination,4:25 PM,7,3,At home
+Waiting staff,TikTok,251,17,Vlogs,3,6147,6,19,47,38,Night,1,9,Habit,10:15 PM,3,7,At work
+Cashier,Instagram,126,8,Life Hacks,5,4604,7,28,14,62,Afternoon,4,6,Habit,5:45 PM,6,4,At home
+Students,Instagram,295,1,Trends,3,9452,8,1,36,79,Night,1,9,Habit,10:15 PM,3,7,At school
+Manager,Instagram,291,2,Life Hacks,25,1558,3,27,27,89,Evening,5,5,Procrastination,4:25 PM,7,3,Commuting
+Students,Facebook,153,15,Jokes/Memes,15,15,6,5,24,70,Afternoon,4,6,Procrastination,5:45 PM,6,4,At work
+Students,Instagram,214,18,ASMR,19,3605,2,10,40,82,Evening,5,5,Boredom,4:25 PM,7,3,At school
+Labor/Worker,TikTok,48,11,Life Hacks,2,1607,9,10,29,65,Afternoon,4,6,Entertainment,5:45 PM,6,4,At work
+driver,Instagram,163,10,ASMR,12,5935,2,14,45,62,Afternoon,4,6,Habit,5:45 PM,6,4,At work
+Students,YouTube,185,4,Life Hacks,5,2016,3,2,22,56,Night,1,9,Entertainment,10:15 PM,3,7,Commuting
+Students,Instagram,250,5,Jokes/Memes,22,3574,2,4,8,67,Morning,7,3,Entertainment,9:55 AM,9,1,At home
+Waiting staff,Facebook,143,4,Pranks,17,7274,9,2,15,17,Night,1,9,Entertainment,10:15 PM,3,7,At school
+Students,YouTube,55,13,Vlogs,14,9935,1,18,49,8,Night,1,9,Habit,10:15 PM,3,7,At school
+Waiting staff,YouTube,59,13,Entertainment,28,3791,5,13,5,60,Morning,7,3,Entertainment,9:55 AM,9,1,At school
+Waiting staff,YouTube,175,18,Entertainment,27,6406,1,19,4,40,Evening,5,5,Habit,4:25 PM,7,3,At work
+Students,Facebook,115,2,Gaming,22,1088,5,5,11,81,Night,1,9,Habit,10:15 PM,3,7,At work
+Labor/Worker,TikTok,225,16,Pranks,10,1361,8,20,18,89,Morning,7,3,Procrastination,9:55 AM,9,1,At work
+Students,Instagram,155,1,Life Hacks,3,4473,8,2,42,62,Night,1,9,Entertainment,10:15 PM,3,7,At school
+Teacher,YouTube,81,19,Jokes/Memes,4,5294,8,11,49,41,Night,1,9,Boredom,10:15 PM,3,7,Commuting
+Artist,YouTube,282,9,Pranks,6,7106,2,26,30,12,Morning,7,3,Boredom,9:55 AM,9,1,At school
+Manager,YouTube,256,3,Vlogs,24,7319,8,18,15,93,Afternoon,4,6,Entertainment,5:45 PM,6,4,At work
+Manager,TikTok,195,7,Life Hacks,25,8667,5,6,6,89,Night,1,9,Habit,10:15 PM,3,7,At home
+Labor/Worker,TikTok,79,10,Life Hacks,22,9481,1,23,16,54,Evening,5,5,Habit,4:25 PM,7,3,Commuting
+Labor/Worker,Facebook,159,1,Entertainment,16,8520,7,28,47,89,Afternoon,4,6,Habit,5:45 PM,6,4,At school
+Teacher,TikTok,255,10,ASMR,7,1186,6,10,40,93,Morning,7,3,Boredom,9:55 AM,9,1,At work
+Students,Instagram,271,9,Entertainment,15,3414,5,22,9,11,Evening,5,5,Habit,4:25 PM,7,3,At school
+driver,Facebook,35,15,Pranks,21,5486,1,23,43,60,Night,1,9,Boredom,10:15 PM,3,7,At work
+driver,Facebook,149,15,Jokes/Memes,28,3536,1,17,34,68,Evening,5,5,Habit,4:25 PM,7,3,At school
+Students,Instagram,108,3,Gaming,25,1773,6,22,27,78,Night,1,9,Procrastination,10:15 PM,3,7,Commuting
+Waiting staff,Instagram,287,5,Pranks,20,5415,7,11,13,46,Evening,5,5,Procrastination,4:25 PM,7,3,At home
+Students,Instagram,60,9,ASMR,26,2558,1,19,36,38,Evening,5,5,Boredom,4:25 PM,7,3,At home
+Students,Facebook,160,9,Life Hacks,11,5907,9,17,27,61,Night,1,9,Procrastination,10:15 PM,3,7,At home
+Waiting staff,Facebook,113,7,Pranks,22,5079,4,24,9,17,Morning,7,3,Boredom,9:55 AM,9,1,At work
+Students,Facebook,98,12,Vlogs,21,9454,5,4,5,66,Night,1,9,Boredom,10:15 PM,3,7,At home
+Waiting staff,Instagram,150,9,Jokes/Memes,1,6724,2,26,22,72,Afternoon,4,6,Entertainment,5:45 PM,6,4,At home
+Cashier,Instagram,222,6,Life Hacks,5,5420,8,24,31,36,Evening,5,5,Boredom,4:25 PM,7,3,At home
+Teacher,YouTube,242,2,Life Hacks,13,3291,2,26,3,74,Night,1,9,Entertainment,10:15 PM,3,7,At work
+Cashier,TikTok,192,9,Gaming,21,9210,3,14,30,7,Evening,5,5,Entertainment,4:25 PM,7,3,At home
+Artist,YouTube,260,17,Vlogs,14,9981,9,27,21,16,Afternoon,4,6,Entertainment,5:45 PM,6,4,At work
+Students,Instagram,18,1,Life Hacks,9,3524,2,20,35,14,Evening,5,5,Boredom,4:25 PM,7,3,Commuting
+Cashier,Facebook,88,19,Gaming,17,3504,6,4,6,80,Evening,5,5,Boredom,4:25 PM,7,3,At school
+Students,Instagram,61,6,Vlogs,15,8998,4,28,28,25,Afternoon,4,6,Procrastination,5:45 PM,6,4,At home
+Students,TikTok,278,5,Life Hacks,21,5989,7,14,32,4,Night,1,9,Boredom,10:15 PM,3,7,At home
+Cashier,YouTube,235,2,Jokes/Memes,7,2666,6,26,42,29,Evening,5,5,Entertainment,4:25 PM,7,3,At home
+Students,YouTube,60,9,Trends,27,8596,9,4,37,56,Night,1,9,Boredom,10:15 PM,3,7,At school
+Students,Facebook,195,14,Jokes/Memes,22,7140,9,6,25,6,Night,1,9,Habit,10:15 PM,3,7,At home
+driver,YouTube,43,4,Vlogs,22,8785,4,9,32,1,Evening,5,5,Habit,4:25 PM,7,3,At home
+Labor/Worker,YouTube,239,4,Trends,12,6895,1,21,35,39,Evening,5,5,Habit,4:25 PM,7,3,At school
+Labor/Worker,Instagram,140,15,Entertainment,23,4107,2,12,22,1,Evening,5,5,Habit,4:25 PM,7,3,At home
+Labor/Worker,YouTube,129,8,Pranks,6,3280,8,29,24,63,Night,1,9,Procrastination,10:15 PM,3,7,At home
+Artist,YouTube,256,4,Life Hacks,21,2212,8,26,39,57,Night,1,9,Boredom,10:15 PM,3,7,At home
+Waiting staff,YouTube,201,16,Entertainment,16,8078,2,8,30,67,Afternoon,4,6,Procrastination,5:45 PM,6,4,At school
+Students,Facebook,219,4,Life Hacks,26,9734,4,24,32,65,Evening,5,5,Entertainment,4:25 PM,7,3,At home
+Waiting staff,Facebook,112,16,Entertainment,5,7601,1,4,31,65,Evening,5,5,Habit,4:25 PM,7,3,At work
+Students,Instagram,142,12,Vlogs,9,613,7,27,23,21,Night,1,9,Entertainment,10:15 PM,3,7,At home
+Artist,YouTube,148,16,Entertainment,14,868,4,26,40,30,Morning,7,3,Boredom,9:55 AM,9,1,At school
+Labor/Worker,Facebook,130,19,ASMR,8,811,8,25,33,96,Evening,5,5,Entertainment,4:25 PM,7,3,At home
+driver,Facebook,103,8,Jokes/Memes,14,4862,9,25,25,33,Night,1,9,Habit,10:15 PM,3,7,At school
+Waiting staff,Instagram,138,6,Vlogs,12,4177,9,5,36,48,Morning,7,3,Procrastination,9:55 AM,9,1,At home
+driver,TikTok,100,10,Vlogs,10,1744,3,6,24,22,Evening,5,5,Boredom,4:25 PM,7,3,At school
+Students,YouTube,101,5,Life Hacks,20,2256,5,5,31,94,Afternoon,4,6,Entertainment,5:45 PM,6,4,At home
+Waiting staff,Facebook,72,18,Trends,20,7612,6,19,39,54,Evening,5,5,Entertainment,4:25 PM,7,3,Commuting
+Students,Instagram,38,10,Vlogs,26,8713,6,27,46,4,Afternoon,4,6,Boredom,5:45 PM,6,4,At work
+Labor/Worker,Instagram,219,10,Pranks,21,7196,8,8,13,87,Afternoon,4,6,Boredom,5:45 PM,6,4,At home
+Cashier,Instagram,21,7,Gaming,13,5423,6,9,10,55,Afternoon,4,6,Boredom,5:45 PM,6,4,At school
+Artist,Facebook,139,18,Life Hacks,29,5089,6,15,23,44,Evening,5,5,Procrastination,4:25 PM,7,3,At school
+Students,YouTube,182,1,ASMR,19,6608,4,4,18,89,Evening,5,5,Entertainment,4:25 PM,7,3,At school
+Cashier,TikTok,217,7,Trends,15,9717,7,25,32,12,Night,1,9,Habit,10:15 PM,3,7,At home
+Students,YouTube,33,1,Pranks,8,1469,8,9,33,81,Afternoon,4,6,Habit,5:00 PM,6,4,Commuting
+Waiting staff,Instagram,108,15,ASMR,23,2675,3,7,36,79,Afternoon,4,6,Habit,5:00 PM,6,4,At home
+Waiting staff,Instagram,148,4,Trends,21,1513,7,8,28,74,Afternoon,4,6,Boredom,5:00 PM,6,4,At work
+Engineer,TikTok,183,10,Vlogs,10,4876,3,15,16,99,Evening,5,5,Boredom,2:00 PM,7,3,Commuting
+driver,YouTube,38,9,Pranks,3,1451,8,19,16,52,Evening,5,5,Entertainment,2:00 PM,7,3,At school
+Waiting staff,Instagram,152,2,Comedy,21,4654,1,15,18,93,Morning,7,3,Habit,8:00 AM,9,1,At home
+Waiting staff,Instagram,51,14,Trends,3,3007,1,5,8,76,Night,1,9,Entertainment,9:00 PM,3,7,At home
+Waiting staff,YouTube,217,16,Gaming,26,3124,6,19,42,65,Evening,5,5,Boredom,2:00 PM,7,3,At home
+Students,Instagram,201,1,Entertainment,5,1753,9,7,16,65,Afternoon,4,6,Entertainment,5:00 PM,6,4,At work
+Waiting staff,YouTube,169,2,Life Hacks,16,1612,4,6,11,10,Evening,5,5,Boredom,2:00 PM,7,3,At home
+Students,Instagram,73,7,Gaming,17,3275,6,27,6,18,Afternoon,3,7,Boredom,5:00 PM,5,5,At home
+Cashier,YouTube,252,10,Gaming,6,8747,5,19,1,47,Night,9,1,Habit,9:00 PM,10,0,At school
+driver,TikTok,267,1,ASMR,26,2049,1,25,12,66,Evening,3,7,Habit,2:00 PM,5,5,Commuting
+Students,Instagram,161,13,ASMR,20,824,6,28,38,49,Evening,9,1,Entertainment,2:00 PM,10,0,At home
+driver,TikTok,224,1,Entertainment,20,3030,9,17,28,72,Afternoon,3,7,Habit,5:00 PM,5,5,At home
+Labor/Worker,Instagram,175,5,Life Hacks,16,1081,3,10,45,22,Evening,3,7,Habit,2:00 PM,5,5,At home
+Students,Instagram,40,16,Trends,24,5299,3,19,17,86,Afternoon,8,2,Habit,5:00 PM,10,0,At home
+Manager,Facebook,241,15,Life Hacks,2,492,2,11,1,26,Afternoon,6,4,Habit,5:00 PM,8,2,At school
+Cashier,YouTube,291,17,Pranks,20,4764,4,15,32,90,Evening,8,2,Boredom,2:00 PM,10,0,At work
+Cashier,TikTok,38,16,Entertainment,15,7202,3,10,8,9,Evening,6,4,Habit,2:00 PM,8,2,At home
+Engineer,TikTok,204,13,Pranks,18,8266,2,11,40,21,Night,8,2,Boredom,9:00 PM,10,0,At work
+Students,TikTok,265,11,Pranks,1,3360,1,23,43,95,Morning,8,2,Procrastination,8:00 AM,10,0,At school
+Waiting staff,YouTube,290,17,Pranks,26,8562,3,3,46,63,Morning,8,2,Boredom,8:00 AM,10,0,At school
+Teacher,Facebook,96,17,Entertainment,29,4682,6,3,24,6,Evening,6,4,Boredom,2:00 PM,8,2,At work
+Cashier,TikTok,158,2,Entertainment,29,328,9,18,10,14,Afternoon,8,2,Boredom,5:00 PM,10,0,At work
+Labor/Worker,YouTube,258,13,Gaming,19,9982,5,25,47,33,Afternoon,8,2,Entertainment,5:00 PM,10,0,At home
+Students,Instagram,292,14,Trends,12,8968,3,11,39,71,Night,9,1,Boredom,9:00 PM,10,0,At school
+Labor/Worker,TikTok,207,11,Vlogs,8,4674,5,20,39,24,Morning,6,4,Entertainment,8:00 AM,8,2,At work
+Waiting staff,TikTok,53,10,Vlogs,6,4316,5,26,10,73,Morning,6,4,Boredom,8:00 AM,8,2,At home
+driver,Facebook,37,3,Vlogs,12,9379,5,29,36,75,Afternoon,3,7,Procrastination,5:00 PM,5,5,At work
+Waiting staff,TikTok,26,17,Gaming,7,9695,7,22,25,87,Evening,8,2,Boredom,2:00 PM,10,0,At home
+Teacher,TikTok,136,15,Vlogs,18,5803,5,18,10,51,Morning,8,2,Entertainment,8:00 AM,10,0,Commuting
+Labor/Worker,Instagram,177,9,Gaming,22,3325,7,25,19,2,Evening,6,4,Boredom,2:00 PM,8,2,At school
+Students,YouTube,253,10,Comedy,14,8379,9,15,46,15,Night,8,2,Habit,9:00 PM,10,0,At home
+Students,YouTube,85,8,Entertainment,8,1214,5,7,45,35,Evening,3,7,Procrastination,2:00 PM,5,5,At home
+Waiting staff,Facebook,240,13,Vlogs,24,7556,2,10,15,36,Evening,8,2,Boredom,2:00 PM,10,0,At home
+Engineer,Instagram,213,18,Life Hacks,20,9301,5,21,16,92,Night,8,2,Entertainment,9:00 PM,10,0,At school
+Teacher,YouTube,257,5,Jokes/Memes,22,8722,8,23,2,39,Afternoon,9,1,Procrastination,5:00 PM,10,0,At school
+Waiting staff,Instagram,223,6,Life Hacks,14,9262,4,20,29,4,Night,6,4,Habit,9:00 PM,8,2,Commuting
+Teacher,YouTube,224,17,Jokes/Memes,5,3136,2,29,4,64,Night,3,7,Habit,9:00 PM,5,5,At home
+Cashier,Instagram,167,11,Pranks,9,9154,3,10,29,74,Afternoon,8,2,Boredom,5:00 PM,10,0,At home
+Students,Facebook,78,16,ASMR,8,6618,9,13,31,6,Afternoon,8,2,Habit,5:00 PM,10,0,At home
+Labor/Worker,TikTok,94,9,Jokes/Memes,2,5265,9,15,17,57,Night,3,7,Boredom,9:00 PM,5,5,Commuting
+Artist,Facebook,276,2,Trends,28,7089,8,23,10,30,Morning,3,7,Entertainment,8:00 AM,5,5,Commuting
+Students,YouTube,78,5,ASMR,16,7965,8,18,27,99,Night,6,4,Boredom,9:00 PM,8,2,At home
+Students,Facebook,108,1,Vlogs,13,9597,8,23,41,74,Evening,3,7,Habit,2:00 PM,5,5,At home
+Students,TikTok,225,4,Vlogs,7,8708,8,4,15,96,Afternoon,6,4,Habit,5:00 PM,8,2,At home
+Students,Facebook,170,4,Jokes/Memes,16,6569,8,20,44,67,Afternoon,8,2,Entertainment,5:00 PM,10,0,At school
+Labor/Worker,YouTube,103,3,Life Hacks,7,1491,1,17,31,90,Evening,8,2,Entertainment,2:00 PM,10,0,At work
+Students,YouTube,183,9,Jokes/Memes,27,5213,6,28,21,15,Night,9,1,Habit,9:00 PM,10,0,At school
+Labor/Worker,Facebook,174,12,Gaming,14,4228,9,3,41,17,Night,3,7,Procrastination,9:00 PM,5,5,At work
+Waiting staff,TikTok,124,10,Jokes/Memes,14,7508,8,21,46,91,Night,8,2,Entertainment,9:00 PM,10,0,At work
+Students,Facebook,229,2,Pranks,12,4409,3,21,45,18,Evening,8,2,Entertainment,2:00 PM,10,0,At school
+Artist,TikTok,40,11,Jokes/Memes,1,590,1,2,26,19,Afternoon,6,4,Habit,5:00 PM,8,2,At work
+Cashier,Instagram,20,10,Gaming,1,7379,2,4,38,76,Afternoon,3,7,Entertainment,5:00 PM,5,5,At school
+Labor/Worker,TikTok,139,6,Pranks,12,9735,2,1,36,88,Night,8,2,Habit,9:00 PM,10,0,At home
+Labor/Worker,Instagram,114,18,Life Hacks,20,3056,7,15,17,69,Morning,6,4,Habit,8:00 AM,8,2,At school
+Students,Facebook,36,2,Jokes/Memes,21,2206,6,25,3,24,Evening,6,4,Habit,2:00 PM,8,2,At work
+driver,TikTok,236,2,Pranks,15,2708,2,1,14,91,Evening,8,2,Entertainment,2:00 PM,10,0,At home
+Labor/Worker,Instagram,11,10,Gaming,4,5981,8,6,49,48,Evening,8,2,Entertainment,2:00 PM,10,0,At work
+Students,Instagram,110,16,Trends,7,5722,9,7,13,30,Night,6,4,Boredom,9:00 PM,8,2,At school
+Waiting staff,Instagram,30,12,Vlogs,16,747,7,19,41,15,Afternoon,8,2,Entertainment,5:00 PM,10,0,At home
+Manager,YouTube,67,1,Life Hacks,3,8992,4,12,27,47,Evening,3,7,Boredom,2:00 PM,5,5,At work
+Students,Facebook,189,8,Jokes/Memes,7,6553,1,1,1,44,Night,6,4,Entertainment,9:00 PM,8,2,At home
+Waiting staff,Instagram,29,16,Pranks,29,1497,4,7,17,98,Morning,6,4,Habit,8:00 AM,8,2,At school
+Students,TikTok,264,18,Jokes/Memes,24,1379,4,19,48,27,Evening,3,7,Habit,2:00 PM,5,5,At work
+Labor/Worker,Instagram,47,13,Jokes/Memes,22,8871,8,13,34,84,Night,3,7,Entertainment,9:00 PM,5,5,Commuting
+Labor/Worker,YouTube,157,15,Comedy,6,7360,4,26,14,64,Evening,6,4,Entertainment,2:00 PM,8,2,At school
+Students,Facebook,34,12,Life Hacks,16,3770,4,12,17,41,Afternoon,6,4,Boredom,5:00 PM,8,2,At home
+Students,YouTube,130,8,Jokes/Memes,24,3342,2,12,3,96,Night,8,2,Boredom,9:00 PM,10,0,At home
+Waiting staff,YouTube,35,10,Gaming,8,9088,7,22,34,68,Night,8,2,Habit,9:00 PM,10,0,At work
+Students,YouTube,178,14,ASMR,23,1546,4,13,40,5,Morning,6,4,Procrastination,8:00 AM,8,2,At home
+driver,TikTok,234,5,Life Hacks,22,3126,6,28,25,53,Evening,6,4,Boredom,2:00 PM,8,2,At home
+Manager,Facebook,10,18,Jokes/Memes,6,5889,3,14,2,8,Afternoon,8,2,Habit,5:00 PM,10,0,At work
+Students,Facebook,270,19,Life Hacks,10,6208,7,22,34,22,Evening,8,2,Boredom,2:00 PM,10,0,At work
+Waiting staff,TikTok,22,15,Entertainment,16,8875,6,12,26,7,Night,3,7,Entertainment,9:00 PM,5,5,At home
+Labor/Worker,Facebook,57,6,Entertainment,11,1295,3,20,31,22,Morning,8,2,Entertainment,8:00 AM,10,0,Commuting
+Students,YouTube,103,11,Life Hacks,13,1385,4,12,9,46,Evening,6,4,Habit,2:00 PM,8,2,At home
+Students,Facebook,270,11,ASMR,29,942,5,27,30,30,Evening,3,7,Boredom,2:00 PM,5,5,At home
+Engineer,TikTok,287,18,Jokes/Memes,6,3280,9,6,20,16,Afternoon,8,2,Entertainment,5:00 PM,10,0,Commuting
+Labor/Worker,YouTube,214,18,Pranks,24,1033,6,27,21,79,Evening,3,7,Procrastination,2:00 PM,5,5,At home
+Artist,TikTok,194,10,Life Hacks,1,2786,4,10,29,5,Evening,3,7,Procrastination,2:00 PM,5,5,At work
+Labor/Worker,Instagram,184,2,Gaming,21,2233,7,20,25,67,Evening,3,7,Boredom,2:00 PM,5,5,At school
+Manager,YouTube,78,9,Pranks,19,1620,2,29,38,23,Evening,3,7,Entertainment,2:00 PM,5,5,At work
+Waiting staff,YouTube,113,14,Pranks,12,3535,4,24,44,61,Evening,6,4,Boredom,2:00 PM,8,2,At work
+Labor/Worker,Facebook,255,19,Gaming,24,3205,5,9,25,74,Night,8,2,Entertainment,9:00 PM,10,0,At school
+driver,YouTube,170,10,Gaming,27,2882,4,2,9,5,Evening,3,7,Boredom,2:00 PM,5,5,At work
+Waiting staff,TikTok,209,4,Jokes/Memes,6,170,4,7,39,23,Evening,8,2,Habit,2:00 PM,10,0,At home
+Labor/Worker,Facebook,225,6,Jokes/Memes,18,8140,9,9,44,79,Evening,6,4,Habit,2:00 PM,8,2,At work
+Artist,Instagram,221,14,Vlogs,13,9745,2,25,26,82,Night,8,2,Boredom,9:00 PM,10,0,At school
+Labor/Worker,TikTok,25,4,Jokes/Memes,7,3897,6,12,37,25,Afternoon,6,4,Entertainment,5:00 PM,8,2,At school
+Labor/Worker,Instagram,214,15,Life Hacks,23,9787,8,5,16,8,Morning,3,7,Habit,8:00 AM,5,5,At home
+Waiting staff,Instagram,48,16,Jokes/Memes,13,9815,8,1,37,95,Night,3,7,Procrastination,9:00 PM,5,5,At home
+driver,Instagram,98,7,Trends,21,4122,7,22,12,21,Afternoon,3,7,Boredom,5:00 PM,5,5,Commuting
+Teacher,YouTube,265,17,Jokes/Memes,8,5109,4,15,24,2,Afternoon,3,7,Boredom,5:00 PM,5,5,Commuting
+Labor/Worker,TikTok,263,19,Gaming,21,9283,7,8,26,22,Night,3,7,Entertainment,9:00 PM,5,5,At work
+Waiting staff,TikTok,225,19,Gaming,17,2837,6,1,20,72,Afternoon,3,7,Habit,5:00 PM,5,5,At school
+Students,YouTube,181,17,Comedy,9,8599,6,18,9,87,Evening,6,4,Habit,2:00 PM,8,2,At school
+Students,Facebook,146,6,Vlogs,20,5228,2,13,23,96,Night,3,7,Boredom,9:00 PM,5,5,Commuting
+Waiting staff,Instagram,187,11,ASMR,13,4169,8,29,39,72,Evening,3,7,Habit,2:00 PM,5,5,At home
+Engineer,TikTok,86,16,Pranks,2,6721,8,1,29,68,Evening,3,7,Boredom,2:00 PM,5,5,At school
+Labor/Worker,YouTube,197,8,Pranks,4,679,7,5,31,64,Night,8,2,Boredom,9:00 PM,10,0,At school
+Labor/Worker,Instagram,24,11,Vlogs,29,7429,9,18,19,94,Afternoon,9,1,Habit,5:00 PM,10,0,At school
+Waiting staff,Facebook,223,7,Jokes/Memes,25,5487,8,16,20,19,Afternoon,8,2,Procrastination,5:00 PM,10,0,At home
+Students,Facebook,217,19,Vlogs,2,236,9,26,23,87,Night,6,4,Habit,9:00 PM,8,2,Commuting
+Students,Instagram,178,10,Entertainment,4,6804,9,10,43,82,Night,3,7,Habit,9:00 PM,5,5,At school
+driver,Facebook,289,9,Jokes/Memes,18,2423,6,4,27,53,Evening,8,2,Boredom,2:00 PM,10,0,At school
+Labor/Worker,TikTok,155,4,Trends,5,1032,2,1,30,93,Evening,6,4,Entertainment,2:00 PM,8,2,Commuting
+Engineer,TikTok,272,15,Entertainment,19,6339,7,23,21,87,Night,3,7,Habit,9:00 PM,5,5,At home
+Waiting staff,TikTok,13,13,Gaming,10,2940,3,8,44,97,Morning,3,7,Boredom,8:00 AM,5,5,At home
+Students,Facebook,99,2,Jokes/Memes,18,5409,7,5,35,52,Evening,3,7,Habit,2:00 PM,5,5,At work
+Students,TikTok,69,2,Life Hacks,25,3132,9,2,49,47,Night,3,7,Habit,9:00 PM,5,5,At school
+Teacher,YouTube,25,16,Pranks,21,7080,2,24,7,82,Evening,8,2,Habit,2:00 PM,10,0,At home
+Manager,TikTok,236,9,Jokes/Memes,10,4942,6,17,22,54,Evening,3,7,Boredom,2:00 PM,5,5,Commuting
+Students,TikTok,38,13,Jokes/Memes,5,6961,6,7,10,44,Morning,3,7,Entertainment,8:00 AM,5,5,At home
+Waiting staff,Facebook,160,3,Trends,17,7730,9,17,23,97,Afternoon,8,2,Entertainment,5:00 PM,10,0,At school
+Students,TikTok,254,9,Life Hacks,22,633,9,28,15,7,Evening,3,7,Habit,2:00 PM,5,5,At home
+Engineer,Instagram,279,13,Pranks,13,6822,5,6,30,92,Night,3,7,Habit,9:00 PM,5,5,At school
+Students,YouTube,88,2,Jokes/Memes,23,4103,5,29,34,1,Evening,8,2,Entertainment,2:00 PM,10,0,At work
+Waiting staff,Facebook,298,8,Entertainment,17,9584,9,22,13,63,Evening,8,2,Entertainment,2:00 PM,10,0,At home
+Waiting staff,YouTube,162,9,Jokes/Memes,9,6487,8,15,4,98,Morning,8,2,Entertainment,8:00 AM,10,0,At school
+Artist,Instagram,286,16,Trends,24,3446,7,5,18,39,Night,3,7,Entertainment,9:00 PM,5,5,At school
+Labor/Worker,Facebook,288,2,Pranks,12,5738,8,15,23,19,Evening,3,7,Habit,2:00 PM,5,5,At work
+Waiting staff,Facebook,66,6,Gaming,14,3098,6,18,33,31,Afternoon,8,2,Procrastination,5:00 PM,10,0,Commuting
+Labor/Worker,TikTok,195,8,Gaming,14,8097,3,18,34,77,Morning,8,2,Boredom,8:00 AM,10,0,At home
+Students,YouTube,102,5,Life Hacks,8,5476,7,25,34,24,Afternoon,8,2,Habit,5:00 PM,10,0,At work
+Labor/Worker,Instagram,285,9,Gaming,23,8253,8,21,36,69,Afternoon,3,7,Habit,5:00 PM,5,5,At school
+Students,Instagram,167,1,Entertainment,5,5181,8,21,35,87,Night,3,7,Habit,9:00 PM,5,5,At school
+Students,Facebook,284,9,Trends,19,1817,1,23,17,83,Morning,3,7,Boredom,8:00 AM,5,5,At home
+Labor/Worker,TikTok,190,10,Jokes/Memes,28,8824,7,6,28,65,Night,8,2,Procrastination,9:00 PM,10,0,At home
+Students,Facebook,86,4,Vlogs,14,4887,3,2,14,33,Morning,8,2,Entertainment,8:00 AM,10,0,At school
+driver,Facebook,160,3,Gaming,9,2598,2,27,34,59,Evening,3,7,Procrastination,2:00 PM,5,5,At school
+Students,Facebook,247,10,Vlogs,7,9492,2,17,48,33,Evening,8,2,Habit,2:00 PM,10,0,At home
+Manager,Facebook,298,15,Life Hacks,27,2653,8,21,11,32,Morning,3,7,Habit,8:00 AM,5,5,At home
+Engineer,Instagram,240,11,Vlogs,26,1454,9,4,13,59,Night,3,7,Procrastination,9:00 PM,5,5,At school
+Labor/Worker,Instagram,27,14,Gaming,26,1138,3,12,33,92,Night,6,4,Entertainment,9:00 PM,8,2,At school
+Students,Facebook,82,6,Entertainment,8,5807,3,19,2,41,Afternoon,8,2,Entertainment,5:00 PM,10,0,At school
+Students,Facebook,198,12,Vlogs,14,3192,6,2,34,12,Evening,8,2,Procrastination,2:00 PM,10,0,At school
+Students,TikTok,26,13,Vlogs,22,6116,1,26,29,73,Evening,3,7,Entertainment,2:00 PM,5,5,At home
+Students,Facebook,28,17,Trends,28,3759,6,2,37,11,Night,3,7,Boredom,9:00 PM,5,5,At school
+Waiting staff,Instagram,228,16,Entertainment,14,3029,3,14,4,97,Evening,6,4,Entertainment,2:00 PM,8,2,At work
+Waiting staff,YouTube,129,3,Trends,11,9552,4,15,12,19,Night,6,4,Procrastination,9:00 PM,8,2,At home
+Waiting staff,Instagram,110,2,ASMR,14,5095,9,20,26,54,Night,8,2,Habit,9:00 PM,10,0,At home
+Teacher,TikTok,43,11,Vlogs,21,63,3,2,28,57,Night,3,7,Entertainment,9:00 PM,5,5,At home
+Artist,Instagram,93,9,Vlogs,8,1345,1,4,3,42,Evening,3,7,Entertainment,2:00 PM,5,5,At home
+Students,YouTube,205,3,Jokes/Memes,3,974,3,19,20,98,Afternoon,9,1,Habit,5:00 PM,10,0,At home
+Manager,Facebook,211,18,Vlogs,28,4161,7,9,10,71,Afternoon,6,4,Habit,5:00 PM,8,2,At school
+Waiting staff,YouTube,20,15,Gaming,29,5962,7,7,18,31,Evening,6,4,Entertainment,2:00 PM,8,2,At home
+Waiting staff,Facebook,227,14,Pranks,29,9814,5,13,27,52,Night,8,2,Habit,9:00 PM,10,0,At home
+Waiting staff,Facebook,262,2,ASMR,23,8649,1,27,31,2,Afternoon,8,2,Boredom,5:00 PM,10,0,At school
+Waiting staff,Instagram,231,17,ASMR,18,6596,8,12,27,83,Evening,3,7,Habit,2:00 PM,5,5,At home
+Labor/Worker,Instagram,89,8,Jokes/Memes,3,3330,8,3,42,38,Afternoon,9,1,Boredom,5:00 PM,10,0,At home
+Waiting staff,Instagram,16,10,Jokes/Memes,13,1740,2,13,1,32,Morning,8,2,Boredom,8:00 AM,10,0,At home
+Waiting staff,TikTok,281,18,Life Hacks,12,6055,3,15,6,10,Night,3,7,Entertainment,9:00 PM,5,5,At work
+Engineer,Instagram,236,19,Pranks,15,6321,4,14,11,8,Evening,9,1,Procrastination,2:00 PM,10,0,Commuting
+Engineer,TikTok,25,8,Trends,18,1954,1,24,34,90,Afternoon,8,2,Entertainment,5:00 PM,10,0,At school
+Cashier,Instagram,21,8,Gaming,5,279,4,9,39,94,Night,8,2,Boredom,9:00 PM,10,0,Commuting
+Labor/Worker,Facebook,250,3,Trends,7,2391,5,13,20,75,Evening,6,4,Procrastination,2:00 PM,8,2,At school
+Waiting staff,TikTok,30,3,Life Hacks,11,9232,3,23,21,20,Afternoon,3,7,Procrastination,5:00 PM,5,5,At school
+Waiting staff,YouTube,187,12,ASMR,26,6439,2,22,21,20,Morning,8,2,Boredom,8:00 AM,10,0,At work
+Teacher,TikTok,237,17,Jokes/Memes,27,961,6,4,18,9,Evening,6,4,Entertainment,2:00 PM,8,2,At home
+Labor/Worker,TikTok,282,4,Trends,11,6827,8,21,21,72,Evening,3,7,Entertainment,2:00 PM,5,5,At work
+Artist,YouTube,297,17,Comedy,27,1217,7,8,19,15,Afternoon,6,4,Habit,5:00 PM,8,2,At work
+Waiting staff,TikTok,143,14,Jokes/Memes,15,8566,1,3,4,98,Afternoon,3,7,Boredom,5:00 PM,5,5,At home
+Labor/Worker,Facebook,292,19,Pranks,10,6007,4,2,13,88,Night,3,7,Habit,9:00 PM,5,5,At home
+Labor/Worker,Instagram,162,9,Life Hacks,15,4130,3,19,18,97,Evening,8,2,Entertainment,2:00 PM,10,0,At work
+Waiting staff,YouTube,75,12,Pranks,13,1392,6,28,29,63,Evening,8,2,Boredom,2:00 PM,10,0,At home
+Cashier,Instagram,146,5,Pranks,14,2076,9,23,25,91,Night,6,4,Boredom,9:00 PM,8,2,At work
+Waiting staff,Facebook,101,11,Life Hacks,17,8966,9,8,13,21,Afternoon,6,4,Boredom,5:00 PM,8,2,At home
+Manager,YouTube,268,3,Trends,13,4316,7,17,27,5,Afternoon,3,7,Habit,5:00 PM,5,5,At school
+Students,Instagram,112,15,Life Hacks,10,6196,9,13,19,35,Night,8,2,Habit,9:00 PM,10,0,At work
+Waiting staff,Instagram,64,14,Jokes/Memes,25,4589,8,7,49,85,Afternoon,8,2,Habit,5:00 PM,10,0,At school
+Manager,Facebook,266,11,Gaming,1,8142,5,9,1,68,Evening,6,4,Habit,2:00 PM,8,2,Commuting
+Labor/Worker,Instagram,110,8,Comedy,1,6260,9,12,38,48,Evening,8,2,Boredom,2:00 PM,10,0,At school
+Manager,Facebook,207,4,Jokes/Memes,15,8471,7,29,19,80,Morning,8,2,Habit,8:00 AM,7,3,Commuting
+driver,TikTok,235,12,ASMR,16,7897,5,14,1,95,Morning,6,4,Habit,8:00 AM,8,2,At home
+Cashier,Facebook,246,8,Jokes/Memes,12,4841,8,14,40,90,Evening,6,4,Entertainment,2:00 PM,8,2,At home
+Students,TikTok,35,6,Life Hacks,26,7161,7,15,17,62,Afternoon,6,4,Entertainment,5:00 PM,8,2,At school
+Students,YouTube,130,15,Gaming,24,9666,9,3,21,35,Morning,3,7,Habit,8:00 AM,5,5,At home
+Engineer,Instagram,191,12,Trends,6,1059,1,15,22,70,Night,3,7,Habit,9:00 PM,5,5,At school
+Engineer,Facebook,208,16,ASMR,6,1922,9,19,15,97,Afternoon,8,2,Habit,5:00 PM,10,0,At home
+Labor/Worker,Facebook,264,16,Vlogs,12,6101,7,24,39,21,Morning,3,7,Habit,8:00 AM,5,5,At school
+Artist,Instagram,131,4,Jokes/Memes,25,4592,1,20,48,80,Afternoon,8,2,Entertainment,5:00 PM,10,0,At home
+Waiting staff,Instagram,40,11,Life Hacks,15,6349,1,14,39,39,Evening,9,1,Boredom,2:00 PM,10,0,At home
+Artist,YouTube,294,13,Jokes/Memes,4,2473,5,8,32,34,Night,8,2,Habit,9:00 PM,10,0,At work
+Students,YouTube,115,9,Life Hacks,24,8108,8,5,49,15,Night,6,4,Entertainment,9:00 PM,8,2,At school
+Waiting staff,Facebook,233,4,Vlogs,4,8096,9,19,4,6,Evening,6,4,Entertainment,2:00 PM,8,2,At home
+Manager,YouTube,282,12,Life Hacks,2,6748,6,4,44,66,Morning,8,2,Boredom,8:00 AM,10,0,At school
+Labor/Worker,TikTok,241,9,Trends,27,4549,8,14,45,88,Evening,8,2,Entertainment,2:00 PM,10,0,At home
+Waiting staff,YouTube,265,13,Vlogs,24,594,6,16,32,56,Night,8,2,Habit,9:00 PM,10,0,At school
+Waiting staff,YouTube,33,16,Trends,12,5452,6,20,4,49,Evening,8,2,Entertainment,2:00 PM,10,0,Commuting
+Students,Facebook,118,6,Entertainment,7,506,4,24,1,92,Evening,3,7,Boredom,2:00 PM,5,5,At work
+Labor/Worker,TikTok,200,10,Life Hacks,20,4889,5,6,33,1,Evening,8,2,Habit,2:00 PM,10,0,At school
+Labor/Worker,YouTube,34,13,Life Hacks,9,7637,2,23,7,65,Night,6,4,Habit,10:15 PM,8,2,At home
+Waiting staff,TikTok,196,7,Pranks,9,8212,3,25,9,28,Afternoon,9,1,Boredom,5:45 PM,10,0,At home
+Students,TikTok,297,19,Jokes/Memes,8,1399,3,6,1,20,Evening,9,1,Entertainment,4:25 PM,10,0,At home
+Waiting staff,TikTok,125,19,Jokes/Memes,14,3201,5,3,16,48,Evening,9,1,Habit,4:25 PM,10,0,At home
+driver,Instagram,46,17,Pranks,1,7854,5,15,18,72,Night,8,2,Entertainment,10:15 PM,10,0,At home
+Artist,Instagram,291,13,Entertainment,23,6763,6,29,47,65,Evening,8,2,Habit,4:25 PM,10,0,At work
+Labor/Worker,Instagram,146,13,Jokes/Memes,21,7962,5,3,6,90,Afternoon,8,2,Entertainment,5:45 PM,10,0,At home
+Waiting staff,Instagram,236,2,Trends,23,5190,6,11,2,51,Evening,6,4,Procrastination,4:25 PM,8,2,At home
+Teacher,Facebook,191,10,Life Hacks,12,5681,8,3,9,43,Evening,8,2,Entertainment,4:25 PM,10,0,At school
+Waiting staff,YouTube,95,13,Life Hacks,25,3678,2,28,4,49,Night,8,2,Entertainment,10:15 PM,10,0,At work
+driver,Instagram,62,9,Jokes/Memes,2,336,4,10,45,25,Evening,8,2,Procrastination,4:25 PM,10,0,Commuting
+Waiting staff,Facebook,244,1,Gaming,13,1667,6,18,23,74,Afternoon,3,7,Habit,5:45 PM,5,5,At work
+Labor/Worker,YouTube,276,14,Jokes/Memes,27,909,5,1,43,76,Afternoon,9,1,Habit,5:45 PM,10,0,At work
+Students,Instagram,296,16,Jokes/Memes,4,8467,1,16,45,41,Evening,8,2,Habit,4:25 PM,10,0,At home
+Students,YouTube,109,15,Life Hacks,20,9083,9,16,43,71,Afternoon,8,2,Habit,5:45 PM,10,0,At school
+Labor/Worker,Instagram,96,1,Jokes/Memes,18,8204,3,27,8,64,Night,9,1,Boredom,10:15 PM,10,0,At school
+Labor/Worker,Facebook,24,17,Pranks,19,5122,2,10,39,61,Evening,8,2,Procrastination,4:25 PM,10,0,At work
+Students,TikTok,110,13,Gaming,16,8153,9,1,25,12,Evening,3,7,Boredom,4:25 PM,5,5,Commuting
+driver,TikTok,174,15,Jokes/Memes,27,973,7,4,16,81,Afternoon,3,7,Habit,5:45 PM,5,5,At home
+Students,YouTube,38,16,Jokes/Memes,14,4270,5,3,35,69,Afternoon,8,2,Procrastination,5:45 PM,10,0,At school
+Labor/Worker,Facebook,123,16,Trends,29,1408,6,5,17,14,Afternoon,3,7,Habit,5:45 PM,5,5,At home
+Labor/Worker,TikTok,116,2,Pranks,8,2288,4,12,18,34,Afternoon,8,2,Boredom,5:45 PM,10,0,At work
+Waiting staff,Instagram,139,17,Vlogs,12,8738,1,25,27,48,Evening,3,7,Habit,4:25 PM,5,5,At school
+Labor/Worker,TikTok,93,11,ASMR,9,1218,4,12,15,61,Night,8,2,Entertainment,10:15 PM,10,0,At school
+Labor/Worker,YouTube,280,8,ASMR,6,1420,9,13,17,81,Evening,8,2,Habit,4:25 PM,10,0,At home
+Manager,YouTube,253,3,ASMR,26,9646,1,24,43,35,Afternoon,6,4,Habit,5:45 PM,8,2,Commuting
+Cashier,Facebook,223,12,ASMR,18,3377,3,12,5,65,Night,8,2,Boredom,10:15 PM,10,0,At work
+Labor/Worker,YouTube,175,16,Life Hacks,2,7501,5,25,16,59,Afternoon,8,2,Boredom,5:45 PM,10,0,At home
+Manager,TikTok,288,14,Gaming,23,4098,7,16,15,36,Evening,8,2,Boredom,4:25 PM,10,0,At school
+Cashier,TikTok,68,16,Life Hacks,8,2738,9,13,42,79,Evening,3,7,Entertainment,4:25 PM,5,5,At home
+Artist,TikTok,99,17,Pranks,24,7619,6,5,46,19,Night,8,2,Boredom,10:15 PM,10,0,At work
+driver,TikTok,203,11,Pranks,14,1842,3,24,34,42,Night,9,1,Habit,10:15 PM,10,0,At home
+driver,Facebook,132,17,Trends,6,8938,7,4,48,69,Evening,3,7,Boredom,4:25 PM,5,5,At school
+driver,Instagram,145,19,Comedy,10,2816,4,21,19,19,Night,3,7,Boredom,10:15 PM,5,5,At work
+Teacher,Instagram,148,1,Entertainment,8,9063,3,15,8,39,Evening,3,7,Habit,4:25 PM,5,5,At work
+Cashier,Facebook,238,12,Vlogs,17,494,7,12,47,69,Evening,8,2,Entertainment,4:25 PM,10,0,At home
+Cashier,YouTube,283,15,Pranks,25,6560,7,19,10,52,Evening,6,4,Entertainment,4:25 PM,8,2,Commuting
+Artist,Instagram,59,18,Jokes/Memes,29,5510,4,21,5,12,Afternoon,8,2,Habit,5:45 PM,10,0,At school
+Labor/Worker,YouTube,127,14,Vlogs,12,3444,7,28,48,83,Morning,8,2,Boredom,9:55 AM,10,0,At school
+driver,Instagram,211,1,Life Hacks,17,9267,2,19,26,47,Evening,8,2,Habit,4:25 PM,10,0,At school
+Manager,YouTube,200,13,Life Hacks,13,7543,1,21,22,76,Afternoon,3,7,Boredom,5:45 PM,5,5,At home
+Students,Facebook,190,15,Pranks,19,7562,2,11,44,36,Afternoon,3,7,Procrastination,5:45 PM,5,5,At work
+Students,TikTok,87,7,Trends,12,3994,4,21,23,63,Afternoon,8,2,Habit,5:45 PM,10,0,At school
+Waiting staff,YouTube,84,15,Gaming,16,7253,8,6,13,76,Evening,3,7,Boredom,4:25 PM,5,5,At home
+Students,TikTok,290,10,Entertainment,25,45,3,9,9,82,Afternoon,3,7,Boredom,5:45 PM,5,5,At home
+Students,YouTube,30,14,Gaming,27,2057,6,1,49,51,Night,3,7,Entertainment,10:15 PM,5,5,Commuting
+driver,YouTube,180,6,ASMR,5,663,6,12,20,43,Night,3,7,Habit,10:15 PM,5,5,Commuting
+Students,YouTube,24,14,Life Hacks,25,4668,9,26,28,34,Evening,6,4,Habit,4:25 PM,8,2,At school
+Waiting staff,YouTube,220,12,Gaming,16,2029,9,14,44,97,Morning,8,2,Boredom,9:55 AM,8,2,At school
+Students,YouTube,57,11,Entertainment,25,5717,4,6,37,49,Night,8,2,Habit,10:15 PM,10,0,At home
+Students,TikTok,95,19,Gaming,6,2696,9,1,24,18,Night,9,1,Entertainment,10:15 PM,10,0,At home
+Artist,YouTube,158,2,Entertainment,11,8831,6,22,44,61,Evening,3,7,Boredom,4:25 PM,5,5,At work
+driver,TikTok,197,1,Jokes/Memes,17,2663,2,2,33,57,Night,8,2,Entertainment,10:15 PM,10,0,At home
+Teacher,Facebook,160,8,Jokes/Memes,26,2745,6,24,20,93,Night,6,4,Habit,10:15 PM,8,2,At school
+Students,Instagram,150,14,Vlogs,23,5004,2,11,48,5,Night,6,4,Boredom,10:15 PM,8,2,At school
+Engineer,YouTube,78,9,ASMR,14,6321,8,3,30,89,Evening,8,2,Boredom,4:25 PM,10,0,At school
+Students,Instagram,269,2,Entertainment,6,5125,4,10,44,24,Evening,3,7,Habit,4:25 PM,5,5,At home
+driver,TikTok,18,5,Pranks,25,4948,5,6,9,93,Evening,3,7,Procrastination,4:25 PM,5,5,At home
+Waiting staff,Facebook,130,8,Jokes/Memes,23,4402,8,6,45,64,Morning,8,2,Habit,9:55 AM,10,0,Commuting
+Labor/Worker,Facebook,110,16,Gaming,28,3427,8,20,49,59,Evening,3,7,Habit,4:25 PM,5,5,At home
+driver,Facebook,158,16,Gaming,11,5912,6,21,17,38,Evening,9,1,Boredom,4:25 PM,10,0,At school
+Labor/Worker,Instagram,155,13,Life Hacks,12,394,4,2,36,33,Evening,8,2,Boredom,4:25 PM,10,0,At work
+Students,TikTok,252,15,Life Hacks,13,3597,1,26,14,10,Afternoon,6,4,Boredom,5:45 PM,8,2,At home
+Labor/Worker,YouTube,250,1,ASMR,4,329,7,26,19,37,Evening,6,4,Procrastination,4:25 PM,8,2,At school
+Students,YouTube,52,3,Gaming,7,772,8,24,7,97,Night,6,4,Habit,10:15 PM,8,2,At home
+Students,TikTok,104,6,Trends,2,8135,9,10,3,87,Night,3,7,Boredom,10:15 PM,5,5,Commuting
+driver,Instagram,235,14,Jokes/Memes,6,1645,2,23,33,11,Night,8,2,Boredom,10:15 PM,10,0,At work
+Artist,YouTube,15,4,Life Hacks,6,9924,1,26,44,24,Evening,6,4,Entertainment,4:25 PM,8,2,Commuting
+Labor/Worker,TikTok,223,18,Vlogs,18,1787,4,6,32,88,Morning,6,4,Habit,9:55 AM,8,2,At school
+Labor/Worker,YouTube,215,15,Trends,20,9815,5,23,47,71,Evening,6,4,Boredom,4:25 PM,8,2,At work
+Labor/Worker,Facebook,76,9,Jokes/Memes,8,999,1,28,11,21,Afternoon,3,7,Habit,5:45 PM,5,5,At home
+Artist,YouTube,109,18,Vlogs,8,1848,5,17,42,20,Afternoon,8,2,Boredom,5:45 PM,10,0,Commuting
+Teacher,Instagram,21,3,Life Hacks,29,1561,6,14,2,10,Night,8,2,Procrastination,10:15 PM,10,0,Commuting
+Students,TikTok,246,10,ASMR,8,773,3,5,26,89,Night,8,2,Habit,10:15 PM,10,0,Commuting
+Waiting staff,Instagram,267,17,Jokes/Memes,8,7311,7,23,4,47,Night,8,2,Procrastination,10:15 PM,10,0,Commuting
+Students,TikTok,144,7,Gaming,1,5179,6,17,17,47,Afternoon,9,1,Procrastination,5:45 PM,10,0,At work
+Waiting staff,Facebook,231,15,Life Hacks,2,1803,4,2,17,15,Night,8,2,Boredom,10:15 PM,10,0,At home
+Waiting staff,TikTok,165,1,Pranks,12,9290,3,9,28,44,Night,9,1,Procrastination,10:15 PM,10,0,Commuting
+Students,YouTube,151,11,Life Hacks,15,2050,5,12,30,62,Night,3,7,Procrastination,10:15 PM,5,5,At work
+driver,YouTube,167,17,Pranks,4,9790,3,19,40,6,Evening,6,4,Procrastination,4:25 PM,8,2,At home
